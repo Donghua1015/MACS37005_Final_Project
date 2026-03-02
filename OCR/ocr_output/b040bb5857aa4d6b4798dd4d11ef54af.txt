@@ -1,0 +1,17 @@
+问题二: Steering Vector 移给第一人 可以。而且比放在第三人更合理。 理由如下: 第三人的核心任务是"整合和运行' -它需要协调所有人的工具。调试 ReAct, 本身压力已经不小。 Steering Vector 原本是第三人的"选做",移走之后第三人反而更专注。 第一人做的事情本质上都是在问同一个问题: '如何从不同角度量化研究机会的价值?
+Embedding 距离:  主题有多相似? (Week 2) Perplexity 分数:  语言模型觉得有多意外? (Week 2) 时序收敛:  两个领域是否正在靠近? (Patch 1) Steering Vector: 模型内部对"跨学科性"的表征是什么? (Week 6)
+四种测量方式是同一个分析主题的四个层次。放在一 起叙事非常连贯。
+第一人 Section 更新版
+Section 标题: 研究机会的四把量尺一 一从表面距离到模型内部表征" 具体做什么 (更新后):
+1. Sentence-BERT Embedding 地图 Perplexity 评分 (Week 2) 一己有。不变 2.时序收敛分析 时间回测 (Patch 1) 己有。加回测 Steering Vector 提取 (Week 6): 正例: KLab 中高引用的跨领域论文摘要 负例:  同期的单领域论文摘要 用 CAA 提取"高价值跨学科性"方向向量 把所有候选研究组合投影到这个方向上。打分 4.四种量尺的一致性分析:   Embedding 距离 Perplexity  收敛速度。 Steering Vector 打分
+四者是否指向同一批候选机会? 一致的部分最可信。分歧的部分最有讨论价值
+为什么这也回应了 demand characteristics: Steering Vector 是从模型的内部激活里提取的。不依赖于我们设计的 prompt 或评分标准。如果它和 Embedding Perplexity 的结论吻合。说明"这是个好机会"这一判断有三条独立路径支持。而非 demand characteristics 的产物。 新增可视化 (在原有5个基础上调整):
+Steering Vector 方向的 token 激活热力图:  哪些词汇最能激活"跨学科性"方向 四种量尺的相关矩阵:  互相之间的一致程度 最终候选排行榜":  只有四种量尺同时打高分的组合才迸入候选 (这是给第三人的输入)
+工作量娈化: 从大大大乎氽升至  大大大大氽。但因为叙事主题统一。代码结构上可以复用 (都是在处理论文向量)。 Steering Vector 需要 Transformerlens 或 nnsight, 有 Week 6 的代码基础可以直接参考。
+更新后的分工总览
+核心主题 用到的周次 工作量 第一人四种量尺测量研究机会 回测验证 Week 2 Week 6|大大大大太 第二人因果推断 RAG工具 Week 4 + Week 3 第三人 MCP工 具封装 ReAct侦探 Week 5 + Week 8 大大〈夫2 第四人 LoRA微调 奖励模型 盲评 Week 5 + Week 四人工作量现在基本持平。覆盖 Week 2/3/4/5/6/7/8共7个周次。远超要求。
+用更通俗易懂的方式解释四个人的工作。帮助我们确定每个人的工作。
+Thinking
+项目比喻
+把整个项目想象成派 个A1侦探去找金矿:
+第一人:  制作地图。告诉大家哪里可能有金矿
