@@ -1,0 +1,1816 @@
+Total: 467 papers
+
+2026 |      0 cit | Animals, Food, and Technology (AFT) Survey 2017–2025
+       venue: Mendeley Data
+       doi: 10.17632/k3xcndsswk.3
+
+2026 |      0 cit | A Large Language Model Guided Topic Refinement Mechanism for Short Text Modeling
+       venue: Lecture notes in computer science
+       doi: 10.1007/978-981-95-3830-0_32
+
+2025 |      0 cit | Social inequality and cultural factors impact the awareness and reaction during the cryptic transmission period of pandemic
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2502.05622
+
+2025 |      0 cit | Talent Allocation to Startups versus Incumbents: A Cross-Country Experiment for Germany and the United States
+       venue: AEA Randomized Controlled Trials
+       doi: 10.1257/rct.17172-1.0
+
+2025 |      0 cit | Talent Allocation to Startups versus Incumbents: A Cross-Country Experiment for Germany and the United States
+       venue: AEA Randomized Controlled Trials
+       doi: 10.1257/rct.17172
+
+2025 |      0 cit | Transformative and Subsistence Entrepreneurs: Origins and Impacts on Economic Growth
+       venue: Staff reports
+       doi: 10.59576/sr.1166
+
+2025 |      0 cit | Transformative and Subsistence Entrepreneurs: Origins and Impacts on Economic Growth
+       venue: International Finance Discussion Paper
+       doi: 10.17016/ifdp.2025.1410
+
+2025 |      0 cit | Transformative and Subsistence Entrepreneurs: Origins and Impacts on Economic Growth
+       doi: 10.3386/w33766
+
+2025 |      0 cit | Animals, Food, and Technology (AFT) Survey 2017–2021
+       venue: Mendeley Data
+       doi: 10.17632/k3xcndsswk.2
+
+2025 |      0 cit | Mental Models of Autonomy and Sentience Shape Reactions to AI
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2512.09085
+
+2025 |      0 cit | Characterizing Relationships with Companion and Assistant Large Language Models
+       doi: 10.1145/3715070.3749245
+
+2025 |      0 cit | "She's Like a Person but Better": Characterizing Companion-Assistant Dynamics in Human-AI Relationships
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2510.15905
+
+2025 |      0 cit | Measuring Vogue in American Sociology: A Computational Analysis of Disciplinary Fashion from 2011 to 2020
+       doi: 10.4324/9781003546016-70
+
+2025 |      0 cit | Mapping Overlaps in Benchmarks through Perplexity in the Wild
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2509.23488
+
+2025 |      0 cit | Persistence Paradox in Dynamic Science
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2506.22729
+
+2025 |      0 cit | Language Models Surface the Unwritten Code of Science and Society
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2505.18942
+
+2025 |      0 cit | Automatically Advancing LLM Expertise in Technology Judgment
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2505.12452
+
+2025 |      0 cit | Steering an Active Learning Workflow Towards Novel Materials Discovery via Queue Prioritization
+       doi: 10.1109/escience65000.2025.00013
+
+2025 |      2 cit | 32 examples of LLM applications in materials science and chemistry: towards automation, assistants, agents, and accelerated scientific discovery
+       venue: Machine Learning Science and Technology
+       doi: 10.1088/2632-2153/ae011a
+
+2025 |      0 cit | Keeping Artificial Intelligence for Microscopy FAIR: Findable, Accessible, Interoperable, and Reproducible
+       venue: Microscopy and Microanalysis
+       doi: 10.1093/mam/ozaf048.1058
+
+2025 |      1 cit | Bayesian Optimization Hackathon for Chemistry and Materials
+       doi: 10.26434/chemrxiv-2025-dzh5z
+
+2025 |      0 cit | 34 Examples of LLM Applications in Materials Science and Chemistry: Towards Automation, Assistants, Agents, and Accelerated Scientific Discovery
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2505.03049
+
+2025 |      0 cit | Cultural Alien Sampler: Open-ended art generation balancing originality and coherence
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2510.20849
+
+2025 |      0 cit | Experimental Evidence That AI-Managed Workers Tolerate Lower Pay Without Demotivation
+       venue: Proceedings of the AAAI/ACM Conference on AI Ethics and Society
+       doi: 10.1609/aies.v8i1.36590
+
+2025 |      0 cit | Humans learn to prefer trustworthy AI over human partners
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2507.13524
+
+2025 |      0 cit | Experimental Evidence That AI-Managed Workers Tolerate Lower Pay Without Demotivation
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2505.21752
+
+2025 |      2 cit | The governance &amp; behavioral challenges of generative artificial intelligence’s hypercustomization capabilities
+       venue: Behavioral Science & Policy
+       doi: 10.1177/23794607251347020
+
+2025 |      0 cit | Class politics in financialized economies: evidence from the United Kingdom, 1983–2019
+       venue: Socio-Economic Review
+       doi: 10.1093/ser/mwaf037
+
+2025 |      0 cit | Correcting Label-noise Corruption withlambda-Odds Ratio
+       doi: 10.21203/rs.3.rs-8419819/v1
+
+2025 |      0 cit | High-speed Z-shaped Laser Point Scanning for Thermographic Detection of CFRP Defects
+       venue: Journal of Nondestructive Evaluation
+       doi: 10.1007/s10921-025-01299-2
+
+2025 |      0 cit | Risk model of liquid–liquid phase separation‐related genes reveals the prognosis and tumor microenvironment characteristics of colorectal cancer
+       venue: Journal of Cell Communication and Signaling
+       doi: 10.1002/ccs3.70054
+
+2025 |      0 cit | Cuproptosis: mechanisms and links with Alzheimer’s disease
+       venue: Journal of Neurophysiology
+       doi: 10.1152/jn.00370.2025
+
+2025 |      0 cit | Neural Network Dysregulation in Female Abdominal Obesity: Distinct Functional Connectivity in Different Appetite Subtypes
+       venue: Obesity
+       doi: 10.1002/oby.70040
+
+2025 |      2 cit | Catalytic Hydrogenation Dominated by Concerted Hydrogen Tunneling at Room Temperature
+       venue: ACS Central Science
+       doi: 10.1021/acscentsci.5c00943
+
+2025 |      4 cit | Age and gender distortion in online media and large language models
+       venue: Nature
+       doi: 10.1038/s41586-025-09581-z
+
+2025 |      2 cit | Natural Language Processing and Computational Linguistics
+       doi: 10.5121/csit.2025.1518
+
+2025 |      0 cit | Utopian Vectors: An In-Progress Dataset of Utopian Literature
+       doi: 10.31235/osf.io/tng23_v1
+
+2025 |      0 cit | Natural language analysis of the structure of altered states of consciousness
+       venue: Journal of Psychedelic Studies
+       doi: 10.1556/2054.2025.00441
+
+2025 |      1 cit | Dynamic Persistence of Institutions: Modeling the historical endurance of Red Vienna’s public housing utopia
+       venue: Organization Studies
+       doi: 10.1177/01708406251317258
+
+2025 |      0 cit | Preference Learning from Physics-Based Feedback: Tuning Language Models to Design BCC/B2 Superalloys
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2511.12036
+
+2025 |      0 cit | Intent-Aware Schema Generation And Refinement For Literature Review Tables
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2507.19521
+
+2025 |      0 cit | SciArena: An Open Evaluation Platform for Foundation Models in Scientific Literature Tasks
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2507.01001
+
+2025 |      0 cit | Ai2 Scholar QA: Organized Literature Synthesis with Attribution
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2504.10861
+
+2025 |      0 cit | Intent-aware Schema Generation and Refinement for Literature Review Tables
+       doi: 10.18653/v1/2025.findings-emnlp.1274
+
+2025 |      0 cit | After science
+       venue: Science
+       doi: 10.1126/science.aec7650
+
+2025 |      0 cit | Critical Confabulation: Can LLMs Hallucinate for Social Good?
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2511.07722
+
+2025 |      0 cit | Epistemic Gaps and the Attribution of (AI) Discovery
+       venue: PhilSci-Archive (University of Pittsburgh)
+
+2025 |      0 cit | A Priori Knowledge in an Era of Computational Opacity: The Role of Artificial Intelligence in Mathematical Discovery
+       venue: Philosophy of Science
+       doi: 10.1017/psa.2025.10160
+
+2025 |      2 cit | Shifting power asymmetries in scientific teams reveal China’s rising leadership in global science
+       venue: Proceedings of the National Academy of Sciences
+       doi: 10.1073/pnas.2414893122
+
+2025 |      2 cit | Shifting power asymmetries in scientific teams reveal China’s rising leadership in global science
+       venue: Proceedings of the National Academy of Sciences
+       doi: https://doi.org/10.1073/pnas.2414893122
+
+2025 |      0 cit | Harnessing Multimodal Data from Scientific Literature for Spectroscopy Informatics
+       venue: ECS Meeting Abstracts
+       doi: 10.1149/ma2025-027997mtgabs
+
+2025 |      0 cit | Autonomous Synthesis and Inverse Design of Electrochromic Polymers with High Efficiency and Accuracy
+       venue: Journal of the American Chemical Society
+       doi: 10.1021/jacs.5c12241
+
+2025 |      0 cit | Cartesian equivariant representations for learning and understanding molecular orbitals
+       venue: Proceedings of the National Academy of Sciences
+       doi: 10.1073/pnas.2510235122
+
+2025 |      1 cit | Addressing Reproducibility Challenges in HPC with Continuous Integration
+       doi: 10.1145/3712285.3759874
+
+2025 |      2 cit | Core Hours and Carbon Credits: Incentivizing Sustainability in HPC
+       doi: 10.1145/3712285.3759858
+
+2025 |      0 cit | A Simple Threshold Captures the Social Learning of Conventions
+       doi: 10.31234/osf.io/xucka_v3
+
+2025 |      0 cit | A Simple Threshold Captures the Social Learning of Conventions
+       doi: 10.31235/osf.io/evnq7_v3
+
+2025 |      0 cit | A Simple Threshold Captures the Social Learning of Conventions
+       doi: 10.31235/osf.io/evnq7_v2
+
+2025 |      0 cit | A Simple Threshold Captures the Social Learning of Conventions
+       doi: 10.31234/osf.io/xucka_v2
+
+2025 |      0 cit | Meta-Predictions Enhance Social Learning
+       doi: 10.21203/rs.3.rs-7539099/v1
+
+2025 |      4 cit | Kilonova Constraints for the LIGO/Virgo/KAGRA Neutron Star Merger Candidate S250206dm: GW-MMADS Observations
+       venue: The Astrophysical Journal Letters
+       doi: 10.3847/2041-8213/adfd49
+
+2025 |      0 cit | Gravitational lensing rarely produces high-mass outliers to the compact binary population
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2507.07964
+
+2025 |      0 cit | New test for superluminal gravitational wave polarizations
+       venue: Physical review. D/Physical review. D.
+       doi: 10.1103/m7ns-f3jf
+
+2025 |      0 cit | The Stochastic Siren: Astrophysical Gravitational-Wave Background Measurements of the Hubble Constant
+       venue: arXiv (Cornell University)
+
+2025 |      7 cit | New probe of gravitational parity violation through nonobservation of the stochastic gravitational-wave background
+       venue: Physical review. D/Physical review. D.
+       doi: 10.1103/physrevd.111.044041
+
+2025 |      0 cit | IROTE: Human-like Traits Elicitation of Large Language Model via In-Context Self-Reflective Optimization
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2508.08719
+
+2025 |      0 cit | GDM links to increased neonatal myocardial hypertrophy via ANGPTL7: prospective cohort study
+       venue: Journal of Obstetrics and Gynaecology
+       doi: 10.1080/01443615.2025.2531366
+
+2025 |      2 cit | Differentiation between multiple sclerosis and neuromyelitis optic spectrum disorders with multilevel fMRI features: A machine learning analysis
+       venue: Scientific Reports
+       doi: 10.1038/s41598-024-84508-8
+
+2025 |      0 cit | Complexity of intrinsic brain activity in relapsing–remitting multiple sclerosis patients: patterns, association with structural damage, and clinical disability
+       venue: La radiologia medica
+       doi: 10.1007/s11547-024-01925-5
+
+2025 |      0 cit | Large AI Models Have a Prioritization Problem: Policy Implications and Solutions
+       venue: Policy Insights from the Behavioral and Brain Sciences
+       doi: 10.1177/23727322251408311
+
+2025 |      0 cit | Engagement-based algorithms disrupt human social norm learning
+       doi: 10.31219/osf.io/mgdwq_v2
+
+2025 |      0 cit | Collaborative Care for Anxiety: Differences in Patient and Clinic-Level Characteristics on Treatment Outcomes in a Safety-Net Hospital System
+       venue: Community Mental Health Journal
+       doi: 10.1007/s10597-025-01530-4
+
+2025 |      0 cit | Treatment of cannabinoid hyperemesis syndrome: A systematic review and treatment algorithm for consultation-liaison psychiatrists
+       venue: General Hospital Psychiatry
+       doi: 10.1016/j.genhosppsych.2025.10.012
+
+2025 |      0 cit | Differentiation Drives the Erosion of Positivity on Social Media
+       doi: 10.31234/osf.io/7fjpr_v2
+
+2025 |      0 cit | Peripheral Parasympathetic Networks in Pain: A Systems-Level Review of Mechanisms and Modulations
+       venue: Cellular and Molecular Neurobiology
+       doi: 10.1007/s10571-025-01637-y
+
+2025 |      0 cit | Pseudo-Static Analysis of Segmental Retaining Walls in Reinforced Soil with Acceleration Amplification
+       venue: Transportation Infrastructure Geotechnology
+       doi: 10.1007/s40515-025-00761-y
+
+2025 |      0 cit | <scp>SIRT5</scp> Facilitates Liver Steatosis Progression via Promoting <scp>SDH</scp> Desuccinylation During High‐Fat Diet Feeding
+       venue: Liver International
+       doi: 10.1111/liv.70433
+
+2025 |      0 cit | State Detection Strategy for Wind Turbine Single Component Based on Proportional Risk of Boundary Intensity
+       venue: ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems Part B Mechanical Engineering
+       doi: 10.1115/1.4069527
+
+2025 |      0 cit | Online prediction of fatigue remaining useful life for alloy equipment based on EM algorithm and nonlinear Wiener process
+       venue: Physica Scripta
+       doi: 10.1088/1402-4896/adf923
+
+2025 |      1 cit | The (Short-Term) Effects of Large Language Models on Unemployment and Earnings
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2509.15510
+
+2025 |      0 cit | Broadband Neuromorphic Phototransistors Based on Oxygen Vacancy Modulation in Indium–Gallium-Zinc Oxide Films
+       venue: ACS Applied Materials & Interfaces
+       doi: 10.1021/acsami.5c18293
+
+2025 |      0 cit | VSwap: A New Extension to the Swap Mechanism for Enabling Swap Memory Space Optimization
+       venue: Applied Sciences
+       doi: 10.3390/app152212049
+
+2025 |      0 cit | WITHDRAWN: A Unified Framework for Burn Area Segmentation Using Recurrent Attention and Memory-Augmented Networks
+       doi: 10.21203/rs.3.rs-7470109/v2
+
+2025 |      0 cit | WITHDRAWN: A Unified Framework for Burn Area Segmentation Using Recurrent Attention and Memory-Augmented Networks
+       doi: 10.21203/rs.3.rs-7470109/v1
+
+2025 |      0 cit | Pathway Complexity in Supramolecular Polymerization of Porphyrin Dyads for Kinetic Control of Helicity
+       venue: Aggregate
+       doi: 10.1002/agt2.70090
+
+2025 |      0 cit | Genetics and Scientific Values: Aaron Panofsky, Kushan Dasgupta, Nicole Iturriaga, and Bernard Koch Reply
+       venue: The Hastings Center Report
+       doi: 10.1002/hast.5014
+
+2025 |      2 cit | Simulating Subjects: The Promise and Peril of Artificial Intelligence Stand-Ins for Social Agents and Interactions
+       venue: Sociological Methods & Research
+       doi: 10.1177/00491241251337316
+
+2025 |      3 cit | LLM Social Simulations Are a Promising Research Method
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2504.02234
+
+2025 |      2 cit | Simulating Subjects: The Promise and Peril of AI Stand-ins for Social Agents and Interactions
+       doi: 10.31235/osf.io/vp3j2_v3
+
+2025 |      0 cit | Simulating Subjects: The Promise and Peril of AI Stand-ins for Social Agents and Interactions
+       doi: 10.31235/osf.io/vp3j2_v2
+
+2025 |      0 cit | Linear Regression in a Nonlinear World
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2512.13645
+
+2025 |      0 cit | Signal in the Noise: Polysemantic Interference Transfers and Predicts Cross-Model Influence
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2505.11611
+
+2025 |      0 cit | 19 Big Data and the Computational Social Science of Entrepreneurship and Innovation
+       doi: 10.1515/9783111085722-019
+
+2025 |      0 cit | Large eddy simulation of cavitating flow in a cone valve with special emphasis on the shear cavitation inside and its effects
+       venue: Journal of Hydrodynamics
+       doi: 10.1007/s42241-025-0072-8
+
+2025 |      0 cit | Prediction of cavitation inception number around axisymmetric bodies based on nuclei dynamics mutation
+       venue: Physics of Fluids
+       doi: 10.1063/5.0276824
+
+2025 |      1 cit | LES investigation of oblique inflow effects on propeller cavitating tip vortex
+       venue: Ocean Engineering
+       doi: 10.1016/j.oceaneng.2025.120868
+
+2025 |      1 cit | Association between the depressive symptom trajectories and all-cause mortality in Chinese middle-aged and elderly adults
+       venue: Scientific Reports
+       doi: 10.1038/s41598-025-85177-x
+
+2025 |      1 cit | Association between the depressive symptom trajectories and all-cause mortality in Chinese middle-aged and elderly adults
+       venue: Scientific Reports
+       doi: https://doi.org/10.1038/s41598-025-85177-x
+
+2025 |      1 cit | LES investigation of oblique inflow effects on propeller cavitating tip vortex
+       venue: Ocean Engineering
+       doi: https://doi.org/10.1016/j.oceaneng.2025.120868
+
+2025 |      0 cit | Prediction of cavitation inception number around axisymmetric bodies based on nuclei dynamics mutation
+       venue: Physics of Fluids
+       doi: https://doi.org/10.1063/5.0276824
+
+2025 |      6 cit | Differential impact from individual versus collective misinformation tagging on the diversity of Twitter (X) information engagement and mobility
+       venue: Nature Communications
+       doi: 10.1038/s41467-025-55868-0
+
+2025 |      0 cit | Reflective Reasoning System: Inference-Time Self-Diagnosis and Self-Correction for Large Reasoning Models
+       venue: Preprints.org
+       doi: 10.20944/preprints202512.1743.v1
+
+2025 |      0 cit | Artificial Intelligence, CEO Turnover, and Exploration Orientation in Firm Innovation
+       venue: Information Systems Research
+       doi: 10.1287/isre.2024.0970
+
+2025 |      0 cit | Multi-Modal Contextual Reasoning for Neurological Disease Diagnosis with Vision-Language-Tabular Transformers
+       venue: Preprints.org
+       doi: 10.20944/preprints202511.0128.v1
+
+2025 |      0 cit | Generative AI, Open Source, and Application-Layer Product Development
+       venue: SSRN Electronic Journal
+       doi: 10.2139/ssrn.5577891
+
+2025 |      0 cit | Artificial Intelligence, CEO Turnover, and Exploration Orientation in Firm Innovation
+       venue: SSRN Electronic Journal
+       doi: 10.2139/ssrn.5406802
+
+2025 |      1 cit | DeepHole: Identifying Structural Hole Spanners in Online Social Networks Using Behavior Embedding
+       venue: IEEE Transactions on Computational Social Systems
+       doi: 10.1109/tcss.2025.3567745
+
+2025 |      0 cit | Innovative Paradigms in Organizational Change: Dynamics of Networks, Leadership, and Creativity
+       venue: Academy of Management Proceedings
+       doi: 10.5465/amproc.2025.12393symposium
+
+2025 |      0 cit | A Wearable System Featuring Biomimetic Spatially Distributed Iontronic Sensing Array for Dynamic Monitoring of Deep Tissue Modulus
+       venue: Advanced Science
+       doi: 10.1002/advs.202519009
+
+2025 |      2 cit | A Review of Non-Invasive Continuous Blood Pressure Measurement: From Flexible Sensing to Intelligent Modeling
+       venue: AI Sensors
+       doi: 10.3390/aisens1020008
+
+2025 |      1 cit | A PINN-based transformer model for heat transfer prediction in freeze-drying process
+       venue: International Communications in Heat and Mass Transfer
+       doi: 10.1016/j.icheatmasstransfer.2025.109985
+
+2025 |      0 cit | Chronic Venous Function Monitoring via a highly Flexible Capacitive Strain Sensing Device
+       doi: 10.1109/nmdc64551.2025.11234679
+
+2025 |      1 cit | Effect of music intervention on preoperative anxiety, a randomised clinical study
+       venue: Scientific Reports
+       doi: 10.1038/s41598-025-16413-7
+
+2025 |      0 cit | Aligning AI with Public Values: Deliberation and Decision-Making for Governing Multimodal LLMs in Political Video Analysis
+       venue: Proceedings of the AAAI/ACM Conference on AI Ethics and Society
+       doi: 10.1609/aies.v8i3.36720
+
+2025 |      3 cit | Delegation to artificial intelligence can increase dishonest behaviour
+       venue: Nature
+       doi: 10.1038/s41586-025-09505-x
+
+2025 |      0 cit | Shadow AI thrives under punitive social evaluation
+       doi: 10.31234/osf.io/tfv79_v1
+
+2025 |      2 cit | The science fiction science method
+       venue: Nature
+       doi: 10.1038/s41586-025-09194-6
+
+2025 |      0 cit | Reliable and Valid Rating Data in Less Time with the Fast Image Rating Experiment
+       doi: 10.31234/osf.io/v3n5a_v1
+
+2025 |      0 cit | “Eyes” on the Street: Using Computer Vision to Get the Gist of How Environmental Design Shapes Crime Across Neighborhoods
+       venue: CrimRxiv
+       doi: 10.21428/cb6ab371.0100495e
+
+2025 |      0 cit | Modeling subjective and objective face memorability in a common latent space
+       venue: Journal of Vision
+       doi: 10.1167/jov.25.9.2170
+
+2025 |      0 cit | "EBK": Using Crowd-Sourced Social Media Data to Quantify How Hyperlocal Gang Affiliations Shape Networks and Violence in Chicago
+       venue: Journal of Quantitative Criminology
+       doi: 10.1007/s10940-025-09615-9
+
+2025 |      1 cit | Natural scenes are more compressible and less memorable than human-made scenes
+       doi: 10.31234/osf.io/xw3ek_v1
+
+2025 |      0 cit | Persistent Steal Physiology during a Ramp Cerebrovascular Reactivity Assessment Correlates with Severe Cortical Thinning in Steno-Occlusive Disease
+       venue: American Journal of Neuroradiology
+       doi: 10.3174/ajnr.a9115
+
+2025 |      0 cit | Dynamic Obstacle Avoidance and Trajectory Planning Based on the Soft Actor-Critic Algorithm
+       venue: Applied and Computational Engineering
+       doi: 10.54254/2755-2721/2025.tj23236
+
+2025 |      0 cit | A Novel Cloud Detection Approach Integrating Mamba and Multi-scale Feature Fusion for Remote Sensing Images
+       doi: 10.1109/icgmrs66001.2025.11065635
+
+2025 |      0 cit | Multiplatform Early Predictors of Academic Articles' Visibility and Citations
+       venue: Deep Blue (University of Michigan)
+       doi: 10.1145/3715928.3737492
+
+2025 |      0 cit | Leveraging Hidden Patterns in Open-Ended Community Health Workers’ Notes to Improve Prediction of Patient Readmission
+       doi: 10.1109/escience65000.2025.00040
+
+2025 |      0 cit | Measuring and Analyzing Subjective Uncertainty in Scientific Communications
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2503.21114
+
+2025 |      2 cit | A new method for simultaneous identification of thermal-mechanical loading and thermophysical properties in dynamic coupled thermoelasticity problems based on Levenberg-Marquardt method
+       venue: International Communications in Heat and Mass Transfer
+       doi: 10.1016/j.icheatmasstransfer.2025.109869
+
+2025 |      0 cit | Why Can't Transformers Learn Multiplication? Reverse-Engineering Reveals Long-Range Dependency Pitfalls
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2510.00184
+
+2025 |      0 cit | MoVa: Towards Generalizable Classification of Human Morals and Values
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2509.24216
+
+2025 |      0 cit | A new maximum-a-posteriori-based gappy method for physical field reconstruction using proper orthogonal decomposition and autoencoder
+       venue: Applied Mathematics and Mechanics
+       doi: 10.1007/s10483-025-3295-6
+
+2025 |      0 cit | From Feedback to Checklists: Grounded Evaluation of AI-Generated Clinical Notes
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2507.17717
+
+2025 |      2 cit | Geographical diversity of peer reviewers shapes author success
+       venue: Proceedings of the National Academy of Sciences
+       doi: 10.1073/pnas.2507394122
+
+2025 |      0 cit | Geographical Disparities in Navigating Rejection in Science Drive Disparities in its File Drawer
+       venue: Academy of Management Proceedings
+       doi: 10.5465/amproc.2025.18866abstract
+
+2025 |      6 cit | The gender gap in scholarly self-promotion on social media
+       venue: Nature Communications
+       doi: 10.1038/s41467-025-60590-y
+
+2025 |      5 cit | Evaluating interdisciplinary research: Disparate outcomes for topic and knowledge base
+       venue: Proceedings of the National Academy of Sciences
+       doi: 10.1073/pnas.2409752122
+
+2025 |      0 cit | The effect of trainee career intentions on mentor's interest in the trainee: Experimental evidence from academia
+       venue: Research Policy
+       doi: 10.1016/j.respol.2025.105232
+
+2025 |      0 cit | Lower-skilled occupations face greater upskilling pressure in U.S. job ads
+       venue: Nature Communications
+       doi: 10.1038/s41467-025-67992-y
+
+2025 |      2 cit | Soil Virus Life‐Strategy Conversion and Implications for Ecosystem and Soil Functions
+       venue: Global Change Biology
+       doi: 10.1111/gcb.70460
+
+2025 |      0 cit | Is Everest More Innovative Than Michael? First Name Uniqueness and Inventive Novelty
+       venue: Academy of Management Proceedings
+       doi: 10.5465/amproc.2025.16915abstract
+
+2025 |      0 cit | Wage and Non-Wage Interplay in Management: Do Minimum Wages Affect Management Practices?
+       venue: Academy of Management Proceedings
+       doi: 10.5465/amproc.2025.24191abstract
+
+2025 |      1 cit | Modified Possibilistic Fuzzy C-means Clustering Driven by Weighted Residuals for Image Segmentation
+       venue: Journal of Physics Conference Series
+       doi: 10.1088/1742-6596/3004/1/012004
+
+2025 |      0 cit | SciSciGPT: advancing human–AI collaboration in the science of science
+       venue: Nature Computational Science
+       doi: 10.1038/s43588-025-00906-6
+
+2025 |      0 cit | Bipartisan-Cited Science
+       doi: 10.31235/osf.io/w4tzb_v1
+
+2025 |      1 cit | Prizes must recognize machine contributions to discovery
+       venue: Nature
+       doi: 10.1038/d41586-025-03217-y
+
+2025 |      0 cit | Early career setback and future achievement in professional sports
+       venue: Scientific Reports
+       doi: 10.1038/s41598-025-17271-z
+
+2025 |      0 cit | Funding the Frontier: Visualizing the Broad Impact of Science and Science Funding
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2509.16323
+
+2025 |      0 cit | Generation of reactive nitrogen species for ultrasound-catalyzed tumor treatment through cascade reaction by self-supplied H2O2 nano-reactor
+       venue: Chemical Engineering Journal
+       doi: 10.1016/j.cej.2025.170750
+
+2025 |      0 cit | Compressive Strain Engineering via Sucrose‐Assisted Encapsulation for Perovskite Solar Cells
+       venue: Energy Technology
+       doi: 10.1002/ente.202501496
+
+2025 |      0 cit | Author response for "Controllable Synthesis of Perovskite Solid Solutions as New-Concept Energetic Materials via Thermodynamic Equilibrium"
+       doi: 10.1039/d5sc05641a/v2/response1
+
+2025 |      0 cit | Programmable material via thiol-ene polymerization initiated by electric-field induced thiyl radical on piezoelectric ZnO
+       venue: Nature Communications
+       doi: 10.1038/s41467-025-64011-y
+
+2025 |      0 cit | Ultra-high withstand voltage (&gt;120 kV cm&lt;sup&gt;–1&lt;/sup&gt;) sub-nanosecond (&lt;0.5 ns) aluminum nitride photoconductive semiconductor switch
+       venue: Chinese Science Bulletin (Chinese Version)
+       doi: 10.1360/csb-2025-5146
+
+2025 |      0 cit | Disentangling Boltzmann Brains, the Time-Asymmetry of Memory, and the Second Law
+       venue: Entropy
+       doi: 10.3390/e27121227
+
+2025 |      0 cit | What computer science has to say about the simulation hypothesis
+       venue: Journal of Physics Complexity
+       doi: 10.1088/2632-072x/ae1e50
+
+2025 |      0 cit | Disentangling Boltzmann brains, the time-asymmetry of memory, and the second law
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2507.10959
+
+2025 |      0 cit | The Computational Power of a Human Society: a New Model of Social Evolution
+       venue: Cliodynamics The Journal of Quantitative History and Cultural Evolution
+       doi: 10.21237/c7clio.48373
+
+2025 |      0 cit | Measuring amount of computation done by C.elegans using whole brain neural activity
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2504.10300
+
+2025 |      0 cit | Tracing the evolution of library and information science through three anchored dimensions: Library, people, and algorithm
+       venue: Journal of Informetrics
+       doi: 10.1016/j.joi.2025.101712
+
+2025 |      2 cit | Unveiling citation peaks: How innovation faces delayed recognition in science
+       venue: Information Processing & Management
+       doi: 10.1016/j.ipm.2025.104100
+
+2025 |      0 cit | Innovation by Displacement
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2512.03723
+
+2025 |      0 cit | Report of the 2025 Workshop on Next-Generation Ecosystems for Scientific Computing: Harnessing Community, Software, and AI for Cross-Disciplinary Team Science
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2510.03413
+
+2025 |      0 cit | Report of the 2025 Workshop on Next-Generation Ecosystems for Scientific Computing: Harnessing Community, Software, and AI for Cross-Disciplinary Team Science
+       doi: 10.2172/2589068
+
+2025 |      0 cit | Integrated Machine-learning Force Prediction Model of H-shaped Steel during Hot-rolling Manufacturing with Measurements via Sensors
+       venue: Sensors and Materials
+       doi: 10.18494/sam5569
+
+2025 |      0 cit | Mechanism of fault rockburst-induced coal and gas outburst: Mine accident’s reconstruction via a coupled model of compound disasters
+       venue: AIP Advances
+       doi: 10.1063/5.0275159
+
+2025 |      0 cit | Development and evaluation of a ropivacaine-loaded hydrogel for prolonged nerve blockade and local anesthesia
+       venue: Journal of Biomaterials Applications
+       doi: 10.1177/08853282251387512
+
+2025 |      2 cit | Functional Imaging of CYP3A4 at Multiple Dimensions Using an AI‐Driven High Performance Fluorogenic Substrate
+       venue: Small
+       doi: 10.1002/smll.202412178
+
+2025 |      2 cit | Synthesis of enantioenriched spirocyclic oxindoles catalyzed by bifunctional thiourea
+       venue: Chemical Communications
+       doi: 10.1039/d5cc00165j
+
+2025 |      2 cit | Learning from one and only one shot
+       venue: npj Artificial Intelligence
+       doi: 10.1038/s44387-025-00017-7
+
+2025 |      0 cit | Information Lattice Transform
+       venue: Society for Industrial and Applied Mathematics eBooks
+       doi: 10.1137/1.9781611978933.17
+
+2025 |      0 cit | More investment, more engagement? Analyzing dialogic behavior in online one-to-one tutoring among different payment mechanisms
+       venue: International Journal of Educational Development
+       doi: 10.1016/j.ijedudev.2025.103366
+
+2025 |      0 cit | Cosmopolitan Scientists: How a Global Policy of Commercialization Became Japanese Cosmopolitan Scientists: How a Global Policy of Commercialization Became Japanese, by KameoNahoko. Stanford, CA: Stanford University Press, 2024. 182 pp. $25.00 paper. ISBN: 9781503640405.
+       venue: Contemporary Sociology A Journal of Reviews
+       doi: 10.1177/00943061251374867hh
+
+2025 |      1 cit | “This Work Would Not Have Been Possible without . . .”: The Length of Acknowledgments in Sociology Books
+       venue: Socius Sociological Research for a Dynamic World
+       doi: 10.1177/23780231251378803
+
+2025 |      2 cit | Not so binary or generalizable: Brain sex differences with artificial neural networks
+       venue: Proceedings of the National Academy of Sciences
+       doi: 10.1073/pnas.2411917121
+
+2025 |      0 cit | Broad Spectrum Structure Discovery in Large-Scale Higher-Order Networks
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2505.21748
+
+2025 |      0 cit | Linear Representations of Political Perspective Emerge in Large Language Models
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2503.02080
+
+2025 |      1 cit | Addressing discretization-induced bias in demographic prediction
+       venue: PNAS Nexus
+       doi: 10.1093/pnasnexus/pgaf027
+
+2025 |      0 cit | Reliability Assessment and Maintenance Policy of Polygonal <i>k</i> ‐Out‐of‐ <i>n</i> Systems Under Mixed Shock Sources
+       venue: Quality and Reliability Engineering International
+       doi: 10.1002/qre.70143
+
+2025 |      0 cit | Integrative Profiling of Glymphatic Dysfunction in Adolescent Subthreshold Depression
+       doi: 10.64898/2025.12.18.25342437
+
+2025 |      0 cit | Dietary Green Tea Enhances the Growth, Antioxidant Capacity, and Abundance of Beneficial Intestinal Flora of Grass Carp (Ctenopharyngodon idellus)
+       venue: Animals
+       doi: 10.3390/ani15243595
+
+2025 |      0 cit | Author Correction: Unravelling cysteine-deficiency-associated rapid weight loss
+       venue: Nature
+       doi: 10.1038/s41586-025-09780-8
+
+2025 |      0 cit | MirrorMind: Empowering OmniScientist with the Expert Perspectives and Collective Knowledge of Human Scientists
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2511.16997
+
+2025 |      0 cit | Understanding emergence in complex systems using abductive AI
+       venue: Nature Reviews Physics
+       doi: 10.1038/s42254-025-00895-5
+
+2025 |      0 cit | The 1st Workshop on LLM Agents for Social Simulation
+       doi: 10.1145/3746252.3761594
+
+2025 |      0 cit | Diffuse Thinking: Exploring Diffusion Language Models as Efficient Thought Proposers for Reasoning
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2510.27469
+
+2025 |      0 cit | Publisher Correction: Urban planning in the era of large language models
+       venue: Nature Computational Science
+       doi: 10.1038/s43588-025-00896-5
+
+2025 |      0 cit | Novel flow cytometry-based method for isolating and characterizing human coronary artery endothelial cells from catheter wires in coronary disease and microvascular dysfunction
+       venue: Cardiovascular Research
+       doi: 10.1093/cvr/cvaf139
+
+2025 |      0 cit | Novel flow cytometry-based method for isolating and characterizing human coronary artery endothelial cells from catheter wires in coronary disease and microvascular dysfunction
+       venue: Cardiovascular Research
+       doi: https://doi.org/10.1093/cvr/cvaf139
+
+2024 |      0 cit | The Impact of Stay-At-Home Mandates on Uncertainty and Sentiments: Quasi-Experimental Study
+       venue: Journal of Medical Internet Research
+       doi: 10.2196/64667
+
+2024 |      0 cit | Breaking Down the Lockdown: The Impact of Stay-At-Home Mandates on Uncertainty and Sentiments (Preprint)
+       doi: 10.2196/preprints.64667
+
+2024 |      0 cit | Breaking New Ground, Reinforcing Old Gaps: Gender Disparities in Access to Emerging Research Frontiers
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2404.04707
+
+2024 |      2 cit | Cognitive performance and differentiation of B-SNIP psychosis Biotypes: Algorithmic Diagnostics for Efficient Prescription of Treatments (ADEPT) - 2
+       venue: Biomarkers in Neuropsychiatry
+       doi: 10.1016/j.bionps.2024.100117
+
+2024 |      0 cit | Emergenet: A Digital Twin of Sequence Evolution for Scalable Emergence Risk Assessment of Animal Influenza A Strains
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2411.17154
+
+2024 |      0 cit | Generative AI To Recognize Response Fabrication in PTSD
+       doi: 10.21203/rs.3.rs-4289440/v1
+
+2024 |     20 cit | A digital twin of the infant microbiome to predict neurodevelopmental deficits
+       venue: Science Advances
+       doi: 10.1126/sciadv.adj0400
+
+2024 |      6 cit | Critical Pedagogies and Critical Information Literacy in STEM librarianship: A Literature Review
+       venue: Issues in Science and Technology Librarianship
+       doi: 10.29173/istl2816
+
+2024 |      0 cit | The Paradox of Collective Certainty in Science
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2406.05809
+
+2024 |     44 cit | Online images amplify gender bias
+       venue: Nature
+       doi: https://doi.org/10.1038/s41586-024-07068-x
+
+2024 |      4 cit | The association between glymphatic system dysfunction and alterations in cerebral function and structure in patients with white matter hyperintensities
+       venue: Neuroreport
+       doi: 10.1097/wnr.0000000000002031
+
+2024 |      8 cit | Effects of seismic amplification on the 3D stability of fill slopes in V-shaped valleys
+       venue: Acta Geotechnica
+       doi: https://doi.org/10.1007/s11440-023-02167-x
+
+2024 |      7 cit | Confronting the “Weaponization” of Genetics by Racists Online and Elsewhere
+       venue: The Hastings Center Report
+       doi: 10.1002/hast.4925
+
+2024 |      5 cit | A Primer on Deep Learning for Causal Inference
+       venue: Sociological Methods & Research
+       doi: 10.1177/00491241241234866
+
+2024 |      1 cit | From Protoscience to Epistemic Monoculture: How Benchmarking Set the Stage for the Deep Learning Revolution
+       doi: 10.31235/osf.io/s4qdy
+
+2024 |      1 cit | From Protoscience to Epistemic Monoculture: How Benchmarking Set the Stage for the Deep Learning Revolution
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2404.06647
+
+2024 |      2 cit | On the interpretation of the Intergenerational Elasticity and the Rank–Rank coefficients for cross country comparison
+       venue: Economics Letters
+       doi: 10.1016/j.econlet.2024.111581
+
+2024 |      0 cit | Hidden Persuaders: LLMs' Political Leaning and Their Influence on Voters
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2410.24190
+
+2024 |      1 cit | Evolving AI Collectives to Enhance Human Diversity and Enable Self-Regulation
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2402.12590
+
+2024 |      0 cit | Can Large Language Model Agents Simulate Human Trust Behavior?
+       doi: 10.52202/079017-0501
+
+2024 |      7 cit | Large eddy simulations of sheet-to-cloud cavitation transitions with special emphasis on the simultaneous existence of the re-entrant jet and shock waves
+       venue: Journal of Turbulence
+       doi: 10.1080/14685248.2024.2350070
+
+2024 |      7 cit | Large eddy simulations of sheet-to-cloud cavitation transitions with special emphasis on the simultaneous existence of the re-entrant jet and shock waves
+       venue: Journal of Turbulence
+       doi: https://doi.org/10.1080/14685248.2024.2350070
+
+2024 |     22 cit | Innovation Strategy After IPO: How AI Analytics Spurs Innovation After IPO
+       venue: Management Science
+       doi: https://doi.org/10.1287/mnsc.2022.01559
+
+2024 |      1 cit | Joint-sensemaking, innovation, and communication management during crisis: Evidence from the DCT applications in China
+       venue: Big Data & Society
+       doi: 10.1177/20539517241270714
+
+2024 |      0 cit | Revisiting the Paradoxes of Knowledge Diversity and Network Structure for Team Innovation
+       venue: Academy of Management Proceedings
+       doi: 10.5465/amproc.2024.13243abstract
+
+2024 |      0 cit | Comparative Studies of Guanxi and Social Networks - Capitalizing on Mixed Methods and Big Data
+       venue: Academy of Management Proceedings
+       doi: 10.5465/amproc.2024.19161symposium
+
+2024 |      1 cit | Future of Algorithmic Organization: Large-Scale Analysis of Decentralized Autonomous Organizations (DAOs)
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2410.13095
+
+2024 |      0 cit | Aligning AI with Public Values: Deliberation and Decision-Making for Governing Multimodal LLMs in Political Video Analysis
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2410.01817
+
+2024 |     19 cit | Unpacking How Decentralized Autonomous Organizations (DAOs) Work in Practice
+       doi: 10.1109/icbc59979.2024.10634404
+
+2024 |      4 cit | What Drives the (In)stability of a Stablecoin?
+       doi: 10.1109/icbc59979.2024.10634419
+
+2024 |      5 cit | Virtual Reality Portable Perimetry and Home Monitoring of Glaucoma: Retention and Compliance over a 2-year Period
+       venue: Ophthalmology Science
+       doi: 10.1016/j.xops.2024.100639
+
+2024 |      0 cit | TORONTO: A trial-oriented multidimensional psychometric testing algorithm
+       venue: Journal of Vision
+       doi: 10.1167/jov.24.7.2
+
+2024 |      9 cit | Adaptive optics imaging in ophthalmology: Redefining vision research and clinical practice
+       venue: JFO Open Ophthalmology
+       doi: 10.1016/j.jfop.2024.100116
+
+2024 |      0 cit | Improving the robustness of the Sequentially Optimized Reconstruction Strategy (SORS) for visual field testing
+       venue: PLoS ONE
+       doi: 10.1371/journal.pone.0301419
+
+2024 |      9 cit | Adaptive optics imaging in ophthalmology: Redefining vision research and clinical practice
+       venue: JFO Open Ophthalmology
+       doi: https://doi.org/10.1016/j.jfop.2024.100116
+
+2024 |      5 cit | Virtual Reality Portable Perimetry and Home Monitoring of Glaucoma: Retention and Compliance over a 2-year Period
+       venue: Ophthalmology Science
+       doi: https://doi.org/10.1016/j.xops.2024.100639
+
+2024 |      4 cit | Using Fused Data from Perimetry and Optical Coherence Tomography to Improve the Detection of Visual Field Progression in Glaucoma
+       venue: Bioengineering
+       doi: https://doi.org/10.3390/bioengineering11030250
+
+2024 |      0 cit | Harnessing Large Language Models for Seed Generation in Greybox Fuzzing
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2411.18143
+
+2024 |      0 cit | Design of intelligent remote monitoring and diagnosis system for equipment
+       venue: Journal of Physics Conference Series
+       doi: 10.1088/1742-6596/2862/1/012002
+
+2024 |      0 cit | La2Zr2O7/Bi2Sn2O7 heterostructure for photocatalytic degradation of tetracycline with the aid of hydrogen peroxide under visible light irradiation
+       venue: Journal of Materials Science Materials in Electronics
+       doi: 10.1007/s10854-024-13360-3
+
+2024 |      5 cit | OpenScholar: Synthesizing Scientific Literature with Retrieval-augmented LMs
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2411.14199
+
+2024 |      5 cit | Women’s strength in science: exploring the influence of female participation on research impact and innovation
+       venue: Scientometrics
+       doi: 10.1007/s11192-024-05089-x
+
+2024 |      8 cit | A micrometer sized porous β-cyclodextrin polymer for improving bioavailability of poorly soluble drug
+       venue: Carbohydrate Polymers
+       doi: 10.1016/j.carbpol.2024.123042
+
+2024 |      6 cit | Maltodextrin-derived nanoparticles resensitize intracellular dormant Staphylococcus aureus to rifampicin
+       venue: Carbohydrate Polymers
+       doi: 10.1016/j.carbpol.2024.122843
+
+2024 |      0 cit | Semantic Compression with Information Lattice Learning
+       doi: 10.1109/isit-w61686.2024.10591764
+
+2024 |      0 cit | Semantic Compression with Information Lattice Learning
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2404.03131
+
+2024 |      4 cit | Who Authors Social Science? Demographics and the Production of Knowledge
+       venue: Social Currents
+       doi: 10.1177/23294965241246805
+
+2024 |      1 cit | A Kaleidoscope of Identities: Reflexivity, Routine, and the Fluidity of Sex, Gender, and Sexuality
+       venue: Contemporary Sociology A Journal of Reviews
+       doi: 10.1177/00943061241227106v
+
+2024 |      0 cit | Doubly Non-Central Beta Matrix Factorization for Stable Dimensionality Reduction of Bounded Support Matrix Data
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2410.18425
+
+2024 |      0 cit | Activation Scaling for Steering and Interpreting Language Models
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2410.04962
+
+2023 |     13 cit | Predicting choice behaviour in economic games using gaze data encoded as scanpath images
+       venue: Scientific Reports
+       doi: 10.1038/s41598-023-31536-5
+
+2023 |     27 cit | Effects of Gd doping on microwave absorption properties and mechanism for CaMnO3 perovskites
+       venue: Ceramics International
+       doi: https://doi.org/10.1016/j.ceramint.2023.04.183
+
+2023 |     12 cit | How do professional staff influence academic knowledge development? A literature review and research agenda
+       venue: Studies in Higher Education
+       doi: 10.1080/03075079.2023.2258155
+
+2023 |     16 cit | The geography of breakthrough invention in the United States over the 20th century
+       venue: Research Policy
+       doi: 10.1016/j.respol.2023.104810
+
+2023 |     16 cit | The geography of breakthrough invention in the United States over the 20th century
+       venue: Research Policy
+       doi: https://doi.org/10.1016/j.respol.2023.104810
+
+2023 |     44 cit | Systemic inflammation, neuroinflammation and perioperative neurocognitive disorders
+       venue: Inflammation Research
+       doi: https://doi.org/10.1007/s00011-023-01792-2
+
+2023 |     20 cit | Single-cell transcriptomic profile of satellite glial cells in trigeminal ganglion
+       venue: Frontiers in Molecular Neuroscience
+       doi: https://doi.org/10.3389/fnmol.2023.1117065
+
+2023 |     11 cit | Melatonin‐mediated malic enzyme 2 orchestrates mitochondrial fusion and respiratory functions to promote odontoblastic differentiation during tooth development
+       venue: Journal of Pineal Research
+       doi: https://doi.org/10.1111/jpi.12865
+
+2023 |      6 cit | Single-nucleus transcriptome analysis reveals transcriptional profiles of circadian clock and pain related genes in human and mouse trigeminal ganglion
+       venue: Frontiers in Neuroscience
+       doi: https://doi.org/10.3389/fnins.2023.1176654
+
+2023 |      3 cit | Stability charts for convex slope with turning arc
+       venue: Acta Geotechnica
+       doi: https://doi.org/10.1007/s11440-023-02086-x
+
+2023 |     11 cit | A review of technological developments in lipid nanoparticle application for mRNA vaccination
+       venue: Human Vaccines & Immunotherapeutics
+       doi: https://doi.org/10.1080/21645515.2023.2256040
+
+2023 |      6 cit | Interactive effect between sleep and exercise on depressive symptoms in Chinese adolescents
+       venue: Frontiers in Psychiatry
+       doi: https://doi.org/10.3389/fpsyt.2023.1207243
+
+2023 |      3 cit | Getting Back on Track: Understanding COVID-19 Impact on Urban Mobility and Segregation with Location Service Data
+       venue: Proceedings of the International AAAI Conference on Web and Social Media
+       doi: https://doi.org/10.1609/icwsm.v17i1.22132
+
+2023 |      1 cit | Differential impact from individual versus collective misinformation tagging on the diversity of Twitter (X) information engagement and mobility
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2311.11282
+
+2023 |     26 cit | Unintended Consequences of Advances in Matching Technologies: Information Revelation and Strategic Participation on Gig-Economy Platforms
+       venue: Management Science
+       doi: https://doi.org/10.1287/mnsc.2023.4770
+
+2023 |     15 cit | GPTs and Labor Markets in the Developing Economy: Evidence from China
+       venue: SSRN Electronic Journal
+       doi: https://doi.org/10.2139/ssrn.4426461
+
+2023 |     12 cit | Fast and high‐quality decision‐making: The role of behavioral integration
+       venue: European Management Review
+       doi: https://doi.org/10.1111/emre.12573
+
+2023 |     26 cit | A novel paradigm for integrating physics-based numerical and machine learning models: A case study of eco-hydrological model
+       venue: Environmental Modelling & Software
+       doi: https://doi.org/10.1016/j.envsoft.2023.105669
+
+2023 |     59 cit | Accelerating science with human-aware artificial intelligence
+       venue: Nature Human Behaviour
+       doi: 10.1038/s41562-023-01648-z
+
+2023 |      3 cit | Accelerating science with human-aware artificial intelligence
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2306.01495
+
+2023 |     59 cit | Accelerating science with human-aware artificial intelligence
+       venue: Nature Human Behaviour
+       doi: https://doi.org/10.1038/s41562-023-01648-z
+
+2023 |     84 cit | Viral lysing can alleviate microbial nutrient limitations and accumulate recalcitrant dissolved organic matter components in soil
+       venue: The ISME Journal
+       doi: https://doi.org/10.1038/s41396-023-01438-5
+
+2023 |     23 cit | An Overview of US Workers’ Current Organizing Efforts and Collective Actions
+       venue: Work and Occupations
+       doi: https://doi.org/10.1177/07308884231168793
+
+2023 |     14 cit | The benefits of having an entrepreneur-mother: Influence of mother's entrepreneurial status on human capital formation among children
+       venue: Journal of Business Venturing
+       doi: https://doi.org/10.1016/j.jbusvent.2023.106329
+
+2023 |      2 cit | Social media, meet old politics: preservation and innovation in Colombian presidential elections, 2010–2018
+       venue: Theory and Society
+       doi: 10.1007/s11186-022-09509-w
+
+2023 |      4 cit | The expansion of team size in library and information science (LIS): <i>Is bigger always better?</i>
+       venue: Journal of Information Science
+       doi: 10.1177/01655515231204800
+
+2023 |    142 cit | Remote collaboration fuses fewer breakthrough ideas
+       venue: Nature
+       doi: https://doi.org/10.1038/s41586-023-06767-1
+
+2023 |      6 cit | Information Lattice Learning
+       venue: Journal of Artificial Intelligence Research
+       doi: 10.1613/jair.1.14277
+
+2023 |      3 cit | Alleviating educational inequality in math with the aid of online shadow education– the impact of equal access and equal quality mechanisms
+       venue: Education and Information Technologies
+       doi: 10.1007/s10639-023-12214-5
+
+2023 |     26 cit | Prediction of Academic Performance of Students in Online Live Classroom Interactions—An Analysis Using Natural Language Processing and Deep Learning Methods
+       venue: Journal of Social Computing
+       doi: 10.23919/jsc.2023.0007
+
+2023 |     48 cit | Culprit plaque morphology determines inflammatory risk and clinical outcomes in acute coronary syndrome
+       venue: European Heart Journal
+       doi: 10.1093/eurheartj/ehad334
+
+2023 |     48 cit | Culprit plaque morphology determines inflammatory risk and clinical outcomes in acute coronary syndrome
+       venue: European Heart Journal
+       doi: https://doi.org/10.1093/eurheartj/ehad334
+
+2022 |     35 cit | Metrics and mechanisms: Measuring the unmeasurable in the science of science
+       venue: Journal of Informetrics
+       doi: 10.1016/j.joi.2022.101290
+
+2022 |      1 cit | Predicting Choice Behaviour in Economic Games using Gaze Data Encoded as Scanpath Images
+       venue: Research Square (Research Square)
+       doi: 10.21203/rs.3.rs-2088288/v1
+
+2022 |     39 cit | Event-level prediction of urban crime reveals a signature of enforcement bias in US cities
+       venue: Nature Human Behaviour
+       doi: https://doi.org/10.1038/s41562-022-01372-0
+
+2022 |     78 cit | Demographic characteristics, family environment and psychosocial factors affecting internet addiction in Chinese adolescents
+       venue: Journal of Affective Disorders
+       doi: https://doi.org/10.1016/j.jad.2022.07.053
+
+2022 |     11 cit | Cycles of regional innovative growth
+       venue: Journal of Economic Geography
+       doi: 10.1093/jeg/lbac020
+
+2022 |     11 cit | Cycles of regional innovative growth
+       venue: Journal of Economic Geography
+       doi: https://doi.org/10.1093/jeg/lbac020
+
+2022 |    212 cit | The rise of robots increases job insecurity and maladaptive workplace behaviors: Multimethod evidence.
+       venue: Journal of Applied Psychology
+       doi: https://doi.org/10.1037/apl0001045
+
+2022 |     26 cit | Transcriptional Alterations of Mouse Trigeminal Ganglion Neurons Following Orofacial Inflammation Revealed by Single-Cell Analysis
+       venue: Frontiers in Cellular Neuroscience
+       doi: https://doi.org/10.3389/fncel.2022.885569
+
+2022 |     16 cit | Peripheral role of glutamate in orofacial pain
+       venue: Frontiers in Neuroscience
+       doi: https://doi.org/10.3389/fnins.2022.929136
+
+2022 |     14 cit | The Circadian Clocks, Oscillations of Pain-Related Mediators, and Pain
+       venue: Cellular and Molecular Neurobiology
+       doi: https://doi.org/10.1007/s10571-022-01205-8
+
+2022 |     14 cit | Single-cell RNA sequencing reveals distinct transcriptional features of the purinergic signaling in mouse trigeminal ganglion
+       venue: Frontiers in Molecular Neuroscience
+       doi: https://doi.org/10.3389/fnmol.2022.1038539
+
+2022 |      5 cit | Remote Sensing Analysis of Ecological Maintenance in Subtropical Coastal Mountain Area, China
+       venue: Remote Sensing
+       doi: 10.3390/rs14122734
+
+2022 |     15 cit | Towards an integrated systematic approach for ecological maintenance: Case studies from China and Russia
+       venue: Ecological Indicators
+       doi: 10.1016/j.ecolind.2022.108982
+
+2022 |      1 cit | Tourism-oriented comprehensive land development (TOLD) in subtropical mountain region, Fuzhou, China
+       venue: Arabian Journal of Geosciences
+       doi: 10.1007/s12517-022-09766-0
+
+2022 |     25 cit | Entity-centered Cross-document Relation Extraction
+       venue: arXiv (Cornell University)
+       doi: https://doi.org/10.48550/arxiv.2210.16541
+
+2022 |     21 cit | Quantification and dynamic monitoring of nitrogen utilization efficiency in summer maize with hyperspectral technique considering a non-uniform vertical distribution at whole growth stage
+       venue: Field Crops Research
+       doi: https://doi.org/10.1016/j.fcr.2022.108490
+
+2022 |      0 cit | [RETRACTED] Derma PGX Cream: 100% REAL CREAM - Is It Legitimate Or Scam? v1
+       doi: 10.17504/protocols.io.rm7vzyrw5lx1/v1
+
+2022 |      2 cit | Complementary artificial intelligence designed to augment human discovery
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2207.00902
+
+2022 |     37 cit | Towards Robust and Reproducible Active Learning using Neural Networks
+       venue: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+       doi: https://doi.org/10.1109/cvpr52688.2022.00032
+
+2022 |     21 cit | Responses of microbial community composition and respiration to soil moisture in eroded soil
+       venue: Applied Soil Ecology
+       doi: https://doi.org/10.1016/j.apsoil.2022.104662
+
+2022 |    134 cit | Flat teams drive scientific innovation
+       venue: Proceedings of the National Academy of Sciences
+       doi: https://doi.org/10.1073/pnas.2200927119
+
+2022 |     37 cit | An exploratory study on fade-in versus fade-out scaffolding for novice programmers in online collaborative programming settings
+       venue: Journal of Computing in Higher Education
+       doi: 10.1007/s12528-021-09307-w
+
+2022 |      1 cit | Engaging Undergraduates in the Thrill of Scientific Reasoning with Spatial Data
+       venue: Abstracts of the ICA
+       doi: 10.5194/ica-abs-5-24-2022
+
+2022 |     17 cit | Conceptualizing the Socio-Built Environment: An Expanded Theoretical Framework to Promote a Better Understanding of Risk for Nonmedical Opioid Overdose Outcomes in Urban and Non-Urban Settings
+       venue: Journal of Urban Health
+       doi: 10.1007/s11524-022-00645-3
+
+2022 |      7 cit | Does health service funding go where the need is? A prototype spatial access analysis for new urban contracts data
+       venue: BMC Health Services Research
+       doi: 10.1186/s12913-021-07370-8
+
+2021 |      0 cit | Mechanism for the Generation of Robust Circadian Oscillations through Ultransensitivity and Differential Binding Affinity
+       venue: The Journal of Physical Chemistry B
+       doi: 10.1021/acs.jpcb.1c05915
+
+2021 |      0 cit | A mechanism for the generation of robust circadian oscillations through\n ultransensitivity and differential binding affinity
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2107.06954
+
+2021 |      0 cit | Front speed and pattern selection of a propagating chemical front in an active fluid
+       venue: HAL (Le Centre pour la Communication Scientifique Directe)
+       doi: 10.48550/arxiv.2105.03465
+
+2021 |      0 cit | The Evolution of Technological Knowledge Across Space and Time
+       venue: eScholarship (California Digital Library)
+
+2021 |      4 cit | The Geography of Breakthrough Innovation in the United States over the 20th Century
+       venue: Papers in Evolutionary Economic Geography (PEEG)
+
+2021 |    115 cit | Topological measures for identifying and predicting the spread of complex contagions
+       venue: Nature Communications
+       doi: https://doi.org/10.1038/s41467-021-24704-6
+
+2021 |     42 cit | The reduction of race and gender bias in clinical treatment recommendations using clinician peer networks in an experimental setting
+       venue: Nature Communications
+       doi: https://doi.org/10.1038/s41467-021-26905-5
+
+2021 |     39 cit | Experimental evidence for scale-induced category convergence across populations
+       venue: Nature Communications
+       doi: https://doi.org/10.1038/s41467-020-20037-y
+
+2021 |    520 cit | The relationship between cultural tightness–looseness and COVID-19 cases and deaths: a global analysis
+       venue: The Lancet Planetary Health
+       doi: https://doi.org/10.1016/s2542-5196(20)30301-6
+
+2021 |    158 cit | From Text to Thought: How Analyzing Language Can Advance Psychological Science
+       venue: Perspectives on Psychological Science
+       doi: https://doi.org/10.1177/17456916211004899
+
+2021 |      1 cit | Exploring Personality and Online Social Engagement: An Investigation of\n MBTI Users on Twitter
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.2109.06402
+
+2021 |      2 cit | The High-Tech Sector
+       venue: Cambridge University Press eBooks
+       doi: 10.1017/9781108907620.018
+
+2021 |     37 cit | Remotely Sensed Ecological Protection Redline and Security Pattern Construction: A Comparative Analysis of Pingtan (China) and Durban (South Africa)
+       venue: Remote Sensing
+       doi: 10.3390/rs13152865
+
+2021 |    125 cit | AI on Drugs: Can Artificial Intelligence Accelerate Drug Development? Evidence from a Large-Scale Examination of Bio-Pharma Firms
+       venue: MIS Quarterly
+       doi: https://doi.org/10.25300/misq/2021/16565
+
+2021 |     25 cit | Topical cannabis‐based medicines – A novel adjuvant treatment for venous leg ulcers: An open‐label trial
+       venue: Experimental Dermatology
+       doi: https://doi.org/10.1111/exd.14395
+
+2021 |     19 cit | Multicenter Comparison of the Toronto Portable Perimeter with the Humphrey Field Analyzer
+       venue: Ophthalmology Glaucoma
+       doi: https://doi.org/10.1016/j.ogla.2021.07.011
+
+2021 |    105 cit | Improved YOLOv3 Based on Attention Mechanism for Fast and Accurate Ship Detection in Optical Remote Sensing Images
+       venue: Remote Sensing
+       doi: https://doi.org/10.3390/rs13040660
+
+2021 |     25 cit | Fast and Accurate Power Line Corridor Survey Using Spatial Line Clustering of Point Cloud
+       venue: Remote Sensing
+       doi: https://doi.org/10.3390/rs13081571
+
+2021 |     88 cit | Characteristics of microbial community composition and its relationship with carbon, nitrogen and sulfur in sediments
+       venue: The Science of The Total Environment
+       doi: https://doi.org/10.1016/j.scitotenv.2021.148848
+
+2021 |     34 cit | New insight into soil carbon fixation rate: The intensive co-occurrence network of autotrophic bacteria increases the carbon fixation rate in depositional sites
+       venue: Agriculture Ecosystems & Environment
+       doi: https://doi.org/10.1016/j.agee.2021.107579
+
+2021 |     28 cit | How do soil microbes exert impact on soil respiration and its temperature sensitivity?
+       venue: Environmental Microbiology
+       doi: https://doi.org/10.1111/1462-2920.15520
+
+2021 |     16 cit | Chronological records of sediment organic carbon at an entrance of Dongting Lake: Response to historical meteorological events
+       venue: The Science of The Total Environment
+       doi: https://doi.org/10.1016/j.scitotenv.2021.148801
+
+2021 |    493 cit | Stimuli-responsive polydopamine-based smart materials
+       venue: Chemical Society Reviews
+       doi: https://doi.org/10.1039/d1cs00374g
+
+2021 |    369 cit | Bio-based polyesters: Recent progress and future prospects
+       venue: Progress in Polymer Science
+       doi: https://doi.org/10.1016/j.progpolymsci.2021.101430
+
+2021 |     15 cit | Constructing Knowledge Graphs for Online Collaborative Programming
+       venue: IEEE Access
+       doi: 10.1109/access.2021.3106324
+
+2021 |     77 cit | GeoDa, From the Desktop to an Ecosystem for Exploring Spatial Data
+       venue: Geographical Analysis
+       doi: 10.1111/gean.12311
+
+2021 |      0 cit | Does Health Service Funding Go Where the Need Is? A Prototype Spatial Access Analysis for New Urban Contracts Data
+       venue: Research Square (Research Square)
+       doi: 10.21203/rs.3.rs-453542/v2
+
+2020 |     68 cit | Networked collective intelligence improves dissemination of scientific information regarding smoking risks
+       venue: PLoS ONE
+       doi: https://doi.org/10.1371/journal.pone.0227813
+
+2020 |     24 cit | Color associations in abstract semantic domains
+       venue: Cognition
+       doi: https://doi.org/10.1016/j.cognition.2020.104306
+
+2020 |     25 cit | &lt;p&gt;Hyperconnectivity and High Temporal Variability of the Primary Somatosensory Cortex in Low-Back-Related Leg Pain: An fMRI Study of Static and Dynamic Functional Connectivity&lt;/p&gt;
+       venue: Journal of Pain Research
+       doi: https://doi.org/10.2147/jpr.s242807
+
+2020 |     17 cit | Brain MRI characteristics in neuromyelitis optica spectrum disorders: A large multi-center retrospective study in China
+       venue: Multiple Sclerosis and Related Disorders
+       doi: https://doi.org/10.1016/j.msard.2020.102475
+
+2020 |      4 cit | Network-Mediated Knowledge Spillovers in ICT/Information Security
+       venue: Review of Network Economics
+       doi: 10.1515/rne-2020-0034
+
+2020 |     13 cit | Artificial Intelligence and Drug Innovation: A Large Scale Examination of the Pharmaceutical Industry
+       venue: SSRN Electronic Journal
+       doi: https://doi.org/10.2139/ssrn.3524985
+
+2020 |    343 cit | First Decade of Interfacial Iontronic Sensing: From Droplet Sensors to Artificial Skins
+       venue: Advanced Materials
+       doi: https://doi.org/10.1002/adma.202003464
+
+2020 |     48 cit | Topical cannabis‐based medicines – A novel paradigm and treatment for non‐uremic calciphylaxis leg ulcers: An open label trial
+       venue: International Wound Journal
+       doi: https://doi.org/10.1111/iwj.13484
+
+2020 |     10 cit | A new treatment paradigm for sickle cell disease leg ulcers: Topical cannabis‐based medicines
+       venue: Experimental Dermatology
+       doi: https://doi.org/10.1111/exd.14256
+
+2020 |      9 cit | Promoting wound healing of uremic calciphylaxis leg ulcers using topical <scp>cannabis‐based</scp> medicines
+       venue: Dermatologic Therapy
+       doi: https://doi.org/10.1111/dth.14419
+
+2020 |     73 cit | Incorporating textual and management factors into financial distress prediction: A comparative study of machine learning methods
+       venue: Journal of Forecasting
+       doi: https://doi.org/10.1002/for.2661
+
+2020 |     37 cit | Investigating the performance of satellite-based models in estimating the surface PM2.5 over China
+       venue: Chemosphere
+       doi: https://doi.org/10.1016/j.chemosphere.2020.127051
+
+2020 |     12 cit | A Novel Coarse-to-Fine Method of Ship Detection in Optical Remote Sensing Images Based on a Deep Residual Dense Network
+       venue: Remote Sensing
+       doi: https://doi.org/10.3390/rs12193115
+
+2020 |     45 cit | Bacteria are more sensitive than fungi to moisture in eroded soil by natural grass vegetation restoration on the Loess Plateau
+       venue: The Science of The Total Environment
+       doi: https://doi.org/10.1016/j.scitotenv.2020.143899
+
+2020 |     14 cit | Stand ages adjust fluctuating patterns of soil respiration and decrease temperature sensitivity after revegetation
+       venue: Soil Science Society of America Journal
+       doi: https://doi.org/10.1002/saj2.20077
+
+2020 |    433 cit | Metal‐Containing Polydopamine Nanomaterials: Catalysis, Energy, and Theranostics
+       venue: Small
+       doi: https://doi.org/10.1002/smll.201907042
+
+2020 |    142 cit | A colorimetric biosensor for simultaneous ochratoxin A and aflatoxins B1 detection in agricultural products
+       venue: Food Chemistry
+       doi: https://doi.org/10.1016/j.foodchem.2020.126544
+
+2020 |     49 cit | An Agent-Based Model of COVID-19
+       venue: Complex Systems
+       doi: 10.25088/complexsystems.29.1.87
+
+2020 |     49 cit | An Agent-Based Model of COVID-19
+       venue: Complex Systems
+       doi: https://doi.org/10.25088/complexsystems.29.1.87
+
+2019 |      3 cit | Structural cohesion and embeddedness in two-mode networks
+       venue: Journal of Mathematical Sociology
+       doi: 10.1080/0022250x.2019.1606806
+
+2019 |     29 cit | Estimating heritability and genetic correlations from large health datasets in the absence of genetic data
+       venue: Nature Communications
+       doi: https://doi.org/10.1038/s41467-019-13455-0
+
+2019 |     42 cit | SAR study of celastrol analogs targeting Nur77-mediated inflammatory pathway
+       venue: European Journal of Medicinal Chemistry
+       doi: https://doi.org/10.1016/j.ejmech.2019.05.009
+
+2019 |     29 cit | BI1071, a Novel Nur77 Modulator, Induces Apoptosis of Cancer Cells by Activating the Nur77-Bcl-2 Apoptotic Pathway
+       venue: Molecular Cancer Therapeutics
+       doi: https://doi.org/10.1158/1535-7163.mct-18-0918
+
+2019 |     25 cit | Development of immunocolloidal strip for rapid detection of pyrimethanil
+       venue: Food and Agricultural Immunology
+       doi: https://doi.org/10.1080/09540105.2019.1677566
+
+2019 |     26 cit | White matter lesion loads associated with dynamic functional connectivity within attention network in patients with relapsing-remitting multiple sclerosis
+       venue: Journal of Clinical Neuroscience
+       doi: https://doi.org/10.1016/j.jocn.2019.03.034
+
+2019 |     25 cit | Regional cerebral hypoperfusion after acute sleep deprivation
+       venue: Medicine
+       doi: https://doi.org/10.1097/md.0000000000014008
+
+2019 |    405 cit | Emotion semantics show both cultural variation and universal structure
+       venue: Science
+       doi: https://doi.org/10.1126/science.aaw8160
+
+2019 |    158 cit | Revenge: A Multilevel Review and Synthesis
+       venue: Annual Review of Psychology
+       doi: https://doi.org/10.1146/annurev-psych-010418-103305
+
+2019 |    138 cit | Ecological and cultural factors underlying the global distribution of prejudice
+       venue: PLoS ONE
+       doi: https://doi.org/10.1371/journal.pone.0221953
+
+2019 |    128 cit | The loosening of American culture over 200 years is associated with a creativity–order trade-off
+       venue: Nature Human Behaviour
+       doi: https://doi.org/10.1038/s41562-018-0516-z
+
+2019 |    305 cit | Data Analytics, Innovation, and Firm Productivity
+       venue: Management Science
+       doi: https://doi.org/10.1287/mnsc.2018.3281
+
+2019 |    195 cit | Data Analytics Supports Decentralized Innovation
+       venue: Management Science
+       doi: https://doi.org/10.1287/mnsc.2019.3344
+
+2019 |      9 cit | Data Analytics Supports Decentralized Innovation
+       venue: SSRN Electronic Journal
+       doi: https://doi.org/10.2139/ssrn.3351982
+
+2019 |    181 cit | Flexible and Superwettable Bands as a Platform toward Sweat Sampling and Sensing
+       venue: Analytical Chemistry
+       doi: https://doi.org/10.1021/acs.analchem.8b05875
+
+2019 |     51 cit | Intelligent Labeling Based on Fisher Information for Medical Image Segmentation Using Deep Learning
+       venue: IEEE Transactions on Medical Imaging
+       doi: https://doi.org/10.1109/tmi.2019.2907805
+
+2019 |    229 cit | Recent developments in polydopamine fluorescent nanomaterials
+       venue: Materials Horizons
+       doi: https://doi.org/10.1039/c9mh01197h
+
+2019 |    178 cit | A reversible underwater glue based on photo- and thermo-responsive dynamic covalent bonds
+       venue: Materials Horizons
+       doi: https://doi.org/10.1039/c9mh01148j
+
+2019 |      5 cit | S2ORC: The Semantic Scholar Open Research Corpus
+       venue: arXiv (Cornell University)
+       doi: 10.48550/arxiv.1911.02782
+
+2019 |   1476 cit | Guidelines for Human-AI Interaction
+       doi: 10.1145/3290605.3300233
+
+2019 |     38 cit | Cicero
+       doi: 10.1145/3290605.3300761
+
+2019 |    110 cit | Pretrained Language Models for Sequential Sentence Classification
+       doi: 10.18653/v1/d19-1383
+
+2019 |    926 cit | Large teams develop and small teams disrupt science and technology
+       venue: Nature
+       doi: https://doi.org/10.1038/s41586-019-0941-9
+
+2019 |    926 cit | Large teams develop and small teams disrupt science and technology
+       venue: Nature
+       doi: 10.1038/s41586-019-0941-9
+
+2018 |     46 cit | SemAxis: A Lightweight Framework to Characterize Domain-Specific Word Semantics Beyond Sentiment
+       doi: 10.18653/v1/p18-1228
+
+2018 |     19 cit | Structural holes and bridging in two-mode networks
+       venue: Social Networks
+       doi: 10.1016/j.socnet.2018.04.001
+
+2018 |     73 cit | Autostacker
+       venue: Proceedings of the Genetic and Evolutionary Computation Conference
+       doi: https://doi.org/10.1145/3205455.3205586
+
+2018 |     55 cit | Conjunction of factors triggering waves of seasonal influenza
+       venue: eLife
+       doi: https://doi.org/10.7554/elife.30756
+
+2018 |     31 cit | Autostacker: A Compositional Evolutionary Learning System
+       venue: arXiv (Cornell University)
+       doi: https://doi.org/10.48550/arxiv.1803.00684
+
+2018 |     43 cit | Celastrol binds to its target protein <i>via</i> specific noncovalent interactions and reversible covalent bonds
+       venue: Chemical Communications
+       doi: https://doi.org/10.1039/c8cc06140h
+
+2018 |     37 cit | Buzz and pipelines: the costs and benefits of local and nonlocal interaction
+       venue: Journal of Economic Geography
+       doi: https://doi.org/10.1093/jeg/lby039
+
+2018 |    255 cit | Unpacking the Social Media Bot: A Typology to Guide Research and Policy
+       venue: Policy & Internet
+       doi: https://doi.org/10.1002/poi3.184
+
+2018 |    205 cit | Social learning and partisan bias in the interpretation of climate trends
+       venue: Proceedings of the National Academy of Sciences
+       doi: https://doi.org/10.1073/pnas.1722664115
+
+2018 |    182 cit | Complex Contagions: A Decade in Review
+       venue: Computational social sciences
+       doi: https://doi.org/10.1007/978-3-319-77332-2_1
+
+2018 |     53 cit | Altered low-frequency oscillation amplitude of resting state-fMRI in patients with discogenic low-back and leg pain
+       venue: Journal of Pain Research
+       doi: https://doi.org/10.2147/jpr.s151562
+
+2018 |     31 cit | Disrupted interhemispheric functional connectivity in chronic insomnia disorder: a resting-state fMRI study
+       venue: Neuropsychiatric Disease and Treatment
+       doi: https://doi.org/10.2147/ndt.s162325
+
+2018 |     26 cit | Altered functional connectivity density in patients with herpes zoster and postherpetic neuralgia
+       venue: Journal of Pain Research
+       doi: https://doi.org/10.2147/jpr.s154314
+
+2018 |     18 cit | Synchronization within, and interactions between, the default mode and dorsal attention networks in relapsing-remitting multiple sclerosis
+       venue: Neuropsychiatric Disease and Treatment
+       doi: https://doi.org/10.2147/ndt.s155478
+
+2018 |    117 cit | Synchrony and Physiological Arousal Increase Cohesion and Cooperation in Large Naturalistic Groups
+       venue: Scientific Reports
+       doi: https://doi.org/10.1038/s41598-017-18023-4
+
+2018 |     14 cit | The Impact of Educational Pairing and Urban Residency on Household Financial Investments in Urban China
+       venue: Journal of Family and Economic Issues
+       doi: 10.1007/s10834-018-9579-2
+
+2018 |     10 cit | Data Analytics Skills, Innovation and Firm Productivity
+       venue: SSRN Electronic Journal
+       doi: https://doi.org/10.2139/ssrn.2744789
+
+2018 |     18 cit | Towards algorithm‐enabled home wound monitoring with smartphone photography: A hue‐saturation‐value colour space thresholding technique for wound content tracking
+       venue: International Wound Journal
+       doi: https://doi.org/10.1111/iwj.13011
+
+2018 |      4 cit | Visual Field Testing on a Personal Smartphone
+       venue: Investigative Ophthalmology & Visual Science
+
+2018 |     15 cit | Blind image quality assessment in multiple bandpass and redundancy domains
+       venue: Digital Signal Processing
+       doi: https://doi.org/10.1016/j.dsp.2018.05.010
+
+2018 |     28 cit | Active Deep Learning with Fisher Information for Patch-Wise Semantic Segmentation
+       venue: Lecture notes in computer science
+       doi: https://doi.org/10.1007/978-3-030-00889-5_10
+
+2018 |    211 cit | “Click” chemistry in polymeric scaffolds: Bioactive materials for tissue engineering
+       venue: Journal of Controlled Release
+       doi: https://doi.org/10.1016/j.jconrel.2018.01.023
+
+2018 |    163 cit | Skill discrepancies between research, education, and jobs reveal the critical need to supply soft skills for the data economy
+       venue: Proceedings of the National Academy of Sciences
+       doi: https://doi.org/10.1073/pnas.1804247115
+
+2018 |    765 cit | Lifetime-engineered NIR-II nanoparticles unlock multiplexed in vivo imaging
+       venue: Nature Nanotechnology
+       doi: https://doi.org/10.1038/s41565-018-0221-0
+
+2018 |   1245 cit | Science of science
+       venue: Science
+       doi: 10.1126/science.aao0185
+
+2017 |     45 cit | Synergistic Lysosomal Activatable Polymeric Nanoprobe Encapsulating pH Sensitive Imidazole Derivative for Tumor Diagnosis
+       venue: Small
+       doi: https://doi.org/10.1002/smll.201703164
+
+2017 |     24 cit | Modulation of nongenomic activation of PI3K signalling by tetramerization of N-terminally-cleaved RXRα
+       venue: Nature Communications
+       doi: https://doi.org/10.1038/ncomms16066
+
+2017 |    118 cit | Computational propaganda in the United States of America: Manufacturing consensus online
+       venue: Oxford University Research Archive (ORA) (University of Oxford)
+
+2017 |     34 cit | Regional impairment of intrinsic functional connectivity strength in patients with chronic primary insomnia
+       venue: Neuropsychiatric Disease and Treatment
+       doi: https://doi.org/10.2147/ndt.s137292
+
+2017 |     23 cit | Cortical Surface Thickness in the Middle-Aged Brain with White Matter Hyperintense Lesions
+       venue: Frontiers in Aging Neuroscience
+       doi: https://doi.org/10.3389/fnagi.2017.00225
+
+2017 |    273 cit | The Strength of Social Norms Across Human Groups
+       venue: Perspectives on Psychological Science
+       doi: https://doi.org/10.1177/1745691617708631
+
+2017 |      1 cit | Network-Mediated Knowledge Spillovers: A Cross-Country Comparative Analysis of Information Security Innovations
+       venue: National Bureau of Economic Research
+
+2017 |   1207 cit | Wearable sensors: modalities, challenges, and prospects
+       venue: Lab on a Chip
+       doi: https://doi.org/10.1039/c7lc00914c
+
+2017 |    276 cit | Supercapacitive Iontronic Nanofabric Sensing
+       venue: Advanced Materials
+       doi: https://doi.org/10.1002/adma.201700253
+
+2017 |    201 cit | Imperceptible Epidermal–Iontronic Interface for Wearable Sensing
+       venue: Advanced Materials
+       doi: https://doi.org/10.1002/adma.201705122
+
+2017 |     27 cit | A Probabilistic Active Learning Algorithm Based on Fisher Information Ratio
+       venue: IEEE Transactions on Pattern Analysis and Machine Intelligence
+       doi: https://doi.org/10.1109/tpami.2017.2743707
+
+2017 |     16 cit | An Active RBSE Framework to Generate Optimal Stimulus Sequences in a BCI for Spelling
+       venue: IEEE Transactions on Signal Processing
+       doi: https://doi.org/10.1109/tsp.2017.2728500
+
+2017 |     13 cit | Asymptotic analysis of objectives based on fisher information in active learning
+       venue: arXiv (Cornell University)
+       doi: https://doi.org/10.5555/3122009.3122043
+
+2017 |    236 cit | Bioinspired bright noniridescent photonic melanin supraballs
+       venue: Science Advances
+       doi: https://doi.org/10.1126/sciadv.1701151
+
+2017 |    240 cit | Tectonic evolution of the Qilian Shan: An early Paleozoic orogen reactivated in the Cenozoic
+       venue: Geological Society of America Bulletin
+       doi: https://doi.org/10.1130/b31721.1
+
+2017 |    190 cit | Incorporation of 2,6‐Connected Azulene Units into the Backbone of Conjugated Polymers: Towards High‐Performance Organic Optoelectronic Materials
+       venue: Angewandte Chemie International Edition
+       doi: https://doi.org/10.1002/anie.201711802
+
+2016 |      0 cit | Psychotropic-Related Sexual Dysfunction Questionnaire--SALSEX; Chinese Version
+       venue: PsycTESTS Dataset
+       doi: https://doi.org/10.1037/t60110-000
+
+2016 |      1 cit | The Effects of SiO2 and CeO2 Addition on the Performances of MnOx/TiO2 Catalysts
+       venue: Australian Journal of Chemistry
+       doi: 10.1071/ch16060
+
+2016 |     24 cit | Classification Active Learning Based on Mutual Information
+       venue: Entropy
+       doi: https://doi.org/10.3390/e18020051
+
+2016 |     17 cit | Asymptotic Analysis of Objectives based on Fisher Information in Active Learning
+       venue: arXiv (Cornell University)
+       doi: https://doi.org/10.48550/arxiv.1605.08798
+
+2016 |    158 cit | Structure and Function of Iron-Loaded Synthetic Melanin
+       venue: ACS Nano
+       doi: https://doi.org/10.1021/acsnano.6b05502
+
+2016 |      0 cit | Institutional Foundations of Entrepreneurship in Global Contexts
+       venue: Academy of Management Proceedings
+       doi: 10.5465/ambpp.2016.15394symposium
+
+2016 |     21 cit | Perspectives in flow-based microfluidic gradient generators for characterizing bacterial chemotaxis
+       venue: Biomicrofluidics
+       doi: 10.1063/1.4967777
+
+2016 |     21 cit | Perspectives in flow-based microfluidic gradient generators for characterizing bacterial chemotaxis
+       venue: Biomicrofluidics
+       doi: https://doi.org/10.1063/1.4967777
+
+2015 |     43 cit | Quantifying socio-economic indicators in developing countries from mobile phone communication data: applications to Côte d’Ivoire
+       venue: EPJ Data Science
+       doi: 10.1140/epjds/s13688-015-0053-1
+
+2015 |     55 cit | Fenton-like degradation of Methylene Blue using paper mill sludge-derived magnetically separable heterogeneous catalyst: Characterization and mechanism
+       venue: Journal of Environmental Sciences
+       doi: https://doi.org/10.1016/j.jes.2015.01.026
+
+2015 |     34 cit | Facile synthesis of paper mill sludge-derived heterogeneous catalyst for the Fenton-like degradation of methylene blue
+       venue: Catalysis Communications
+       doi: https://doi.org/10.1016/j.catcom.2015.01.010
+
+2015 |    116 cit | From one mind to many: the emerging science of cultural norms
+       venue: Current Opinion in Psychology
+       doi: https://doi.org/10.1016/j.copsyc.2015.11.002
+
+2015 |     94 cit | Magnetic and microwave absorption properties of rare earth ions (Sm3+, Er3+) doped strontium ferrite and its nanocomposites with polypyrrole
+       venue: Journal of Magnetism and Magnetic Materials
+       doi: 10.1016/j.jmmm.2015.01.019
+
+2015 |    440 cit | Flexible Transparent Iontronic Film for Interfacial Capacitive Pressure Sensing
+       venue: Advanced Materials
+       doi: https://doi.org/10.1002/adma.201502556
+
+2015 |    149 cit | Simultaneously determination of trace Cd2+ and Pb2+ based on l-cysteine/graphene modified glassy carbon electrode
+       venue: Food Chemistry
+       doi: https://doi.org/10.1016/j.foodchem.2015.07.042
+
+2015 |    831 cit | Hydrogen sulfide-based therapeutics: exploiting a unique but ubiquitous gasotransmitter
+       venue: Nature Reviews Drug Discovery
+       doi: https://doi.org/10.1038/nrd4433
+
+2015 |      7 cit | The Financialization of Everyday Life: Mobile Money and (In)Formal Activity in a Developing Context
+       venue: SSRN Electronic Journal
+       doi: 10.2139/ssrn.2562518
+
+2015 |     25 cit | Programmable “Semismart” Sensor: Relevance to Monitoring Antipsychotics
+       venue: Advanced Functional Materials
+       doi: 10.1002/adfm.201403783
+
+2015 |     25 cit | Programmable “Semismart” Sensor: Relevance to Monitoring Antipsychotics
+       venue: Advanced Functional Materials
+       doi: https://doi.org/10.1002/adfm.201403783
+
+2015 |      0 cit | Analysis of Flow-Based Microfluidic Gradient Generators for the Study of Bacterial Chemotaxis
+       venue: University Libraries (University of Maryland)
+       doi: https://doi.org/10.13016/m2790x
+
+2014 |    228 cit | A network framework of cultural history
+       venue: Science
+       doi: 10.1126/science.1240064
+
+2014 |     12 cit | Burgess and Hoyt in Los Angeles: testing the Chicago models in an automotive-age American city
+       venue: Urban Geography
+       doi: https://doi.org/10.1080/02723638.2014.973312
+
+2014 |      1 cit | Residential Patterns in the Pre‐Automotive American City
+       venue: Geographical Review
+       doi: https://doi.org/10.1111/j.1931-0846.2014.12030.x
+
+2014 |      7 cit | Accelerated Learning-Based Interactive Image Segmentation Using Pairwise Constraints
+       venue: IEEE Transactions on Image Processing
+       doi: https://doi.org/10.1109/tip.2014.2325783
+
+2014 |      0 cit | Contents
+       venue: Princeton University Press eBooks
+       doi: 10.1515/9781400865307-toc
+
+2014 |    143 cit | Synthesis of g-C3N4/Fe3O4 nanocomposites and application as a new sorbent for solid phase extraction of polycyclic aromatic hydrocarbons in water samples
+       venue: Talanta
+       doi: https://doi.org/10.1016/j.talanta.2014.08.071
+
+2014 |    554 cit | Endogenous Hydrogen Sulfide Production Is Essential for Dietary Restriction Benefits
+       venue: Cell
+       doi: https://doi.org/10.1016/j.cell.2014.11.048
+
+2014 |      8 cit | Multiple Uses of Mobile Money: Implications for Financial Inclusion
+       venue: SSRN Electronic Journal
+       doi: 10.2139/ssrn.2562520
+
+2012 |      0 cit | Obsessive-compulsive Personality Characteristics and Its Correlation with the Parents′ Personality
+       venue: Zhongguo quanke yixue
+
+2012 |    143 cit | Synthesis and Characterization of Novel Soybean-Oil-Based Elastomers with Favorable Processability and Tunable Properties
+       venue: Macromolecules
+       doi: https://doi.org/10.1021/ma301938a
+
+2012 |   1871 cit | Physiological Implications of Hydrogen Sulfide: A Whiff Exploration That Blossomed
+       venue: Physiological Reviews
+       doi: https://doi.org/10.1152/physrev.00017.2011
+
+2011 |    382 cit | Elastic Modulus Determination of Normal and Glaucomatous Human Trabecular Meshwork
+       venue: Investigative Ophthalmology & Visual Science
+       doi: https://doi.org/10.1167/iovs.10-6342
+
+2011 |    191 cit | Droplet-based interfacial capacitive sensing
+       venue: Lab on a Chip
+       doi: https://doi.org/10.1039/c2lc21168h
+
+2011 |    608 cit | Hydrogen Sulfide as Endothelium-Derived Hyperpolarizing Factor Sulfhydrates Potassium Channels
+       venue: Circulation Research
+       doi: https://doi.org/10.1161/circresaha.111.240242
+
+2010 |     23 cit | An image denoising method based on multiscale wavelet thresholding and bilateral filtering
+       venue: Wuhan University Journal of Natural Sciences
+       doi: https://doi.org/10.1007/s11859-010-0212-y
+
+2010 |    120 cit | Structural interpretation of the coseismic faults of the Wenchuan earthquake: Three‐dimensional modeling of the Longmen Shan fold‐and‐thrust belt
+       venue: Journal of Geophysical Research Atmospheres
+       doi: https://doi.org/10.1029/2009jb006824
+
+2010 |    108 cit | Provenance of detrital zircons from the late Neoproterozoic to Ordovician sandstones of South China: implications for its continental affinity
+       venue: Geological Magazine
+       doi: https://doi.org/10.1017/s0016756810000725
+
+2009 |     40 cit | Supervised Self-Organization of Homogeneous Swarms Using Ergodic Projections of Markov Chains
+       venue: IEEE Transactions on Systems Man and Cybernetics Part B (Cybernetics)
+       doi: https://doi.org/10.1109/tsmcb.2009.2020173
+
+2009 |      1 cit | An experimental investigation of the cross-section ratios in the collisions of partially stripped Cq+，Oq+(q=1—4)on helium atom at the strong-interaction region
+       venue: Acta Physica Sinica
+       doi: https://doi.org/10.7498/aps.58.5342
+
+2009 |    468 cit | Computational methods for design of organic materials with high charge mobility
+       venue: Chemical Society Reviews
+       doi: https://doi.org/10.1039/b816406c
+
+2009 |    287 cit | Nuclear tunneling effects of charge transport in rubrene, tetracene, and pentacene
+       venue: Physical Review B
+       doi: https://doi.org/10.1103/physrevb.79.115203
+
+2009 |   1184 cit | H <sub>2</sub> S Signals Through Protein S-Sulfhydration
+       venue: Science Signaling
+       doi: https://doi.org/10.1126/scisignal.2000464
+
+2009 |    849 cit | Hydrogen sulfide is an endogenous stimulator of angiogenesis
+       venue: Proceedings of the National Academy of Sciences
+       doi: https://doi.org/10.1073/pnas.0908047106
+
+2008 |     37 cit | Structural transformations of probabilistic finite state machines
+       venue: International Journal of Control
+       doi: https://doi.org/10.1080/00207170701704746
+
+2008 |    186 cit | Photopatternable Conductive PDMS Materials for Microfabrication
+       venue: Advanced Functional Materials
+       doi: https://doi.org/10.1002/adfm.200701437
+
+2008 |    487 cit | The impact of higher education on entrepreneurial intentions of university students in China
+       venue: Journal of Small Business and Enterprise Development
+       doi: https://doi.org/10.1108/14626000810917843
+
+2008 |    304 cit | Influences of Crystal Structures and Molecular Sizes on the Charge Mobility of Organic Semiconductors: Oligothiophenes
+       venue: Chemistry of Materials
+       doi: https://doi.org/10.1021/cm8002172
+
+2008 |   2283 cit | H <sub>2</sub> S as a Physiologic Vasorelaxant: Hypertension in Mice with Deletion of Cystathionine γ-Lyase
+       venue: Science
+       doi: https://doi.org/10.1126/science.1162667
+
+2007 |     35 cit | Language-measure-theoretic optimal control of probabilistic finite-state systems
+       venue: International Journal of Control
+       doi: https://doi.org/10.1080/00207170701286322
+
+2007 |    191 cit | Theoretical modelling of carrier transports in molecular semiconductors: molecular design of triphenylamine dimer systems
+       venue: Nanotechnology
+       doi: https://doi.org/10.1088/0957-4484/18/42/424029
+
+2006 |     30 cit | Renormalized measure of regular languages
+       venue: International Journal of Control
+       doi: https://doi.org/10.1080/00207170600801429
+
+2006 |    237 cit | A Cyclic Triphenylamine Dimer for Organic Field-Effect Transistors with High Performance
+       venue: Journal of the American Chemical Society
+       doi: https://doi.org/10.1021/ja064726s
+
+2005 |    161 cit | A magnetically driven PDMS micropump with ball check-valves
+       venue: Journal of Micromechanics and Microengineering
+       doi: https://doi.org/10.1088/0960-1317/15/5/018
+
+2005 |    201 cit | 1,3-Dithiole-2-thione derivatives featuring an anthracene unit: new selective chemodosimeters for Hg(ii) ion
+       venue: Chemical Communications
+       doi: https://doi.org/10.1039/b417952h
+
+2005 |    941 cit | Carbon Monoxide: Endogenous Production, Physiological Functions, and Pharmacological Applications
+       venue: Pharmacological Reviews
+       doi: https://doi.org/10.1124/pr.57.4.3
+
+2002 |   1788 cit | Two's company, three's a crowd: can H <sub>2</sub> S be the third endogenous gaseous transmitter?
+       venue: The FASEB Journal
+       doi: https://doi.org/10.1096/fj.02-0211hyp
+
+2001 |     55 cit | Colchicine induced rhabdomyolysis
+       venue: Postgraduate Medical Journal
+       doi: https://doi.org/10.1136/pmj.77.905.191
+
+2000 |    148 cit | Glycine Betaine-assisted Protein Folding in a lysAMutant of Escherichia coli
+       venue: Journal of Biological Chemistry
+       doi: https://doi.org/10.1074/jbc.275.2.1050
+
+1998 |    171 cit | Comparison of different hydrophobic anchors conjugated to poly(ethylene glycol): effects on the pharmacokinetics of liposomal vincristine
+       venue: Biochimica et Biophysica Acta (BBA) - Biomembranes
+       doi: https://doi.org/10.1016/s0005-2736(98)00077-7
+
+1993 |      0 cit | Predicting the Need for Long-Term Hospitalization
+       venue: PsycEXTRA Dataset
+       doi: 10.1037/e500422006-002
+
+1986 |    122 cit | Genetic and physiological characterization of new Escherichia coli mutants impaired in hydrogenase activity
+       venue: Biochimie
+       doi: https://doi.org/10.1016/s0300-9084(86)81081-1
+

@@ -1,0 +1,15 @@
+先查看MACS_37005_Syllabus.pdf来了解这节课对于final project的要求。
+
+所有的course notebook的distilled的版本位于weekly_notebooks_distilled中。（需要查看这里的所有文件）
+
+所有的course notebook的原始版本位于weekly_notebooks中。(不需要查看)
+
+有关chorus的信息位于chorus_documents中。（需要查看这里的所有文件）
+
+chorus文件夹是chorus本体，里面包含了chorus当前已有的代码等等。
+
+chorus_documents文件夹中的内容是教授提供的2个可选的final project方案，我们将根据这个文件夹来设计我们的final_project。
+
+我们的final_project由4个人组成。每个人需要负责一部分。
+
+现在，请你帮我们进行final project的brainstorm。
