@@ -1,0 +1,27 @@
+来自Leo的微信聊天记录:
+我先把我的output push到了GitHub上，里面有个比较长的readme
+同时我建了一个shared drive，给你们发了邀请
+因为scored_all_4metrics.csv这个文件原本包含了所有的arxiv上论文的abstract太大了
+git上面是不含abstract，应该不会影响你们做后面的
+现在唯一有个问题是当时Claude给我用的是 all-MiniLM-L6-v2 (384D)，不是 distilbert-base-nli-stsb-mean-tokens (768D)。这是他给我的原因：
+  • 计算效率：22M 参数 vs 66M，内存占用更小
+  • 性能相当：STSB 任务上 84.25 vs 85.16，差异很小
+  其实我本来打算就是全量跑的，现在有点纠结要不要换模型重新跑，这样的话后面所有的output全部都要重新改
+不知道有没有必要🤔重新跑要跑大概emmmm一天吧？我的pro也用完了得重新充钱（
+    你现在的这套结果不仅没有问题，反而能在期末 Report 或答辩里成为一个极佳的加分项 (Engineering Highlight)。在数据科学和大规模机器学习的实际工程落地上，如何在有限的算力下处理海量数据，本身就是一个核心考量。
+
+以下是几个坚实的现实和事实理由，帮你彻底打消顾虑，并教你怎么把这个“差异”包装成你的亮点：
+
+1. 规模决定了你的选择 (Scale dictates the tool)
+
+如果你只处理几千篇文章，用 66M 参数的 768D 模型当然没问题。但你跑的是 297 万篇 arXiv 全量数据！
+
+维度从 768D 降到 384D，意味着你的 Embedding 矩阵大小直接缩小了一半，从约 9GB 降到了 4.5GB，这让你在内存有限的 Colab 环境中成功跑通了量尺 3 (时序分析) 的矩阵乘法。
+
+如果你用 768D，之前那些内存防爆机制可能根本防不住，直接就 OOM (Out of Memory) 彻底罢工了。
+
+2. 边际效用递减 (Diminishing Returns)
+
+就像 Claude 给你列出的数据：在 STSB (Semantic Textual Similarity Benchmark) 任务上，all-MiniLM-L6-v2 得分是 84.25，而老款的 distilbert-base-nli-stsb 是 85.16。
+为了提升这不到 1% 的理论性能，你需要付出 3 倍的计算时间和双倍的存储空间。在真实世界的算法设计中，这笔买卖极其不划算。而且 all-MiniLM 是更新一代的架构，对语义的压缩效率极高。
+笑死了，就先这样，我今天有点头疼不打算搞这个了，明天如果觉得还是要换个模型的话我就重新弄。另外我里面的notebook的代码极其ai且混乱，我之后会改的（

@@ -1,0 +1,22 @@
+先查看MACS_37005_Syllabus.pdf来了解这节课对于final project的要求。
+所有的course notebook的distilled的版本位于weekly_notebooks_distilled中。（需要查看这里的所有文件）
+所有的course notebook的原始版本位于weekly_notebooks中。(不需要查看)
+
+有关chorus的信息位于chorus_documents中。（需要查看这里的所有文件）
+chorus文件夹是chorus本体，里面包含了chorus当前已有的代码等等。
+chorus_documents文件夹中的内容是教授提供的2个可选的final project方案，我们将根据这个文件夹来设计我们的final_project。
+
+weekly_notebook_distilled文件夹是本学期学习的知识点。
+
+我们的final_project由4个人组成。每个人需要负责一部分。
+OCR文件夹的ocr_output的三个文件是我们4人已经brianstorm后的结果。
+
+我是Xiong，我的Notebook位于Xiong's Memo文件夹。
+Xiong's Memo文件夹中包含了Week2到Week8的Memo Pilot Test，是我之前基于本节课的内容的学习材料，针对Memo进行的Test。
+这些Memo Pilot Test非常重要，它与我们的final_project有直接联系。
+你需要完整查看这里的notebook的Memo Pilot Test的部分。
+
+现在，查看名为Leo的文件夹，以及根目录下的Leo的工作汇总.txt。
+结合Xiong's Memo文件夹和weekly_notebook_distilled文件夹的内容。
+说说Leo做了什么，他做的内容与我的=哪个memo pilot test最接近，有什么异同？他做的内容被weekly_notebook_distilled文件夹的内容覆盖了吗？他做的内容都存在于weekly_notebook_distilled文件夹中吗？
+用中文回答。

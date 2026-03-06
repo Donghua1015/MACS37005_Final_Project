@@ -1,0 +1,21 @@
+{
+  "name": "query_causal_evidence",
+  "description": "Query causal evidence about interdisciplinary research effects. Based on causal analysis of 2.9 million arXiv papers using TARNet and DML. Returns ATE/CATE estimates by domain, team size, and time period. Supports both English and Chinese queries.",
+  "parameters": {
+    "query": {
+      "type": "string",
+      "description": "Natural language question, e.g. 'Does interdisciplinary research help in CS?' or 'Is it worth doing cross-domain work in a small team?'"
+    },
+    "k": {
+      "type": "integer",
+      "description": "Number of evidence documents to retrieve (default 3, range 1-10)",
+      "default": 3
+    }
+  },
+  "required_files": [
+    "outputs/causal_evidence_index.faiss",
+    "outputs/causal_evidence_docs.json"
+  ],
+  "embedding_model": "all-MiniLM-L6-v2",
+  "total_evidence_documents": 25
+}
