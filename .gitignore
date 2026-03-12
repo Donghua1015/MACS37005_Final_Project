@@ -33,3 +33,5 @@ venv/
 chorus/
 Xiong's works/data/arxiv-metadata-oai-snapshot.json
 Xiong's works/data/citation_results.jsonl
+Part1_Xiong/data/arxiv-metadata-oai-snapshot.json
+Part1_Xiong/data/citation_results.jsonl
