@@ -31,3 +31,5 @@ venv/
 
 # Submodule (tracked separately)
 chorus/
+Xiong's works/data/arxiv-metadata-oai-snapshot.json
+Xiong's works/data/citation_results.jsonl
