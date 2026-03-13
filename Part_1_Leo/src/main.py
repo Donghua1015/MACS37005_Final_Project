@@ -4,12 +4,7 @@ drive.mount('/content/drive')
 
 # %%
 """
-arXiv Embedding Pipeline - Colab Pro Optimized
-
-Optimizations for Colab Pro:
-- Auto-detect GPU and adjust batch size
-- Support for A100/V100 large batch processing
-- Optional SciBERT for better quality (if A100 available)
+arXiv Embedding Pipeline
 """
 
 import json
