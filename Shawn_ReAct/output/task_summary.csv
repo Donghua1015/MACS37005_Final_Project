@@ -1,9 +1,0 @@
-task_id,task_name,tool_calls,n_steps,model,has_final_answer,tool_sequence
-1,Team Size × NLP,7,8,gpt-4o,True,search_klab_sweet_spots → get_domain_novelty_stats → get_domain_novelty_stats → get_domain_convergence → query_causal_evidence → compute_opportunity_score → compute_opportunity_score
-2,Science Acceleration × Bioinformatics,4,5,gpt-4o,True,search_klab_sweet_spots → get_domain_convergence → query_causal_evidence → compute_opportunity_score
-3, Knowledge Networks × Statistical Learning,5,6,gpt-4o,True,search_klab_sweet_spots → get_domain_novelty_stats → get_domain_convergence → query_causal_evidence → compute_opportunity_score
-4,Political Polarization × Economics,7,8,gpt-4o,True,search_klab_sweet_spots → search_klab_sweet_spots → search_klab_sweet_spots → get_domain_novelty_stats → query_causal_evidence → get_domain_convergence → compute_opportunity_score
-5,Disease Space × Electrical Engineerin,2,3,gpt-4o,True,search_klab_sweet_spots → get_domain_convergence
-6,Citation Prediction × Quantum Physics,3,3,gpt-4o,False,search_klab_sweet_spots → get_domain_novelty_stats → get_domain_convergence
-7,Language Information Density × Physics,5,6,gpt-4o,True,search_klab_sweet_spots → get_domain_novelty_stats → get_domain_convergence → query_causal_evidence → compute_opportunity_score
-8,Failure Dynamics × Mathematics,0,0,gpt-4o,False,
