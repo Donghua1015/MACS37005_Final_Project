@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/github_repo/MACS37005_Final_Project/**)",
+      "Bash(python translate_notebook.py)"
+    ]
+  }
+}
